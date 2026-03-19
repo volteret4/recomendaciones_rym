@@ -9,4 +9,4 @@
 **/__pycache__/
 # Symlink local a los datos generados (no existe en GitHub)
 #docs/data
-output/
+#output/
