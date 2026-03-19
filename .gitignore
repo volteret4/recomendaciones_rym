@@ -8,5 +8,5 @@
 **/.csv*
 **/__pycache__/
 # Symlink local a los datos generados (no existe en GitHub)
-docs/data
+#docs/data
 output/
