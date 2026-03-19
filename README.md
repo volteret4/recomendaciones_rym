@@ -1,1 +1,1 @@
-# recomendador_rym
+# recomendaciones_rym
