@@ -27,6 +27,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # El symlink docs/data → ../output es solo para desarrollo local.
+      # En el runner no existe ../output (está gitignored), así que lo eliminamos
+      # antes de subir para evitar que tar falle con un enlace roto.
+      - name: Remove local-only data symlink
+        run: rm -f docs/data
+
       - name: Upload docs/ folder as Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
