@@ -1,0 +1,511 @@
+{
+  "username": "Rocky_stereo",
+  "total_scrobbles": 46796,
+  "unique_artists": 2307,
+  "unique_albums": 4093,
+  "first_scrobble": "2023-03-01",
+  "diversity_index": 0.808,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "rock",
+      "weight": 0.0472,
+      "score": 14718
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0299,
+      "score": 9333
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0253,
+      "score": 7876
+    },
+    {
+      "genre": "latin",
+      "weight": 0.0241,
+      "score": 7526
+    },
+    {
+      "genre": "dream pop",
+      "weight": 0.022,
+      "score": 6874
+    },
+    {
+      "genre": "shoegaze",
+      "weight": 0.0215,
+      "score": 6715
+    },
+    {
+      "genre": "classic rock",
+      "weight": 0.0186,
+      "score": 5801
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0185,
+      "score": 5770
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0178,
+      "score": 5559
+    },
+    {
+      "genre": "psychedelic rock",
+      "weight": 0.0165,
+      "score": 5131
+    },
+    {
+      "genre": "psychedelic",
+      "weight": 0.0161,
+      "score": 5011
+    },
+    {
+      "genre": "progressive rock",
+      "weight": 0.0161,
+      "score": 5007
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0151,
+      "score": 4695
+    },
+    {
+      "genre": "indie pop",
+      "weight": 0.0151,
+      "score": 4693
+    },
+    {
+      "genre": "art rock",
+      "weight": 0.0146,
+      "score": 4562
+    },
+    {
+      "genre": "blues rock",
+      "weight": 0.0136,
+      "score": 4236
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0136,
+      "score": 4229
+    },
+    {
+      "genre": "new wave",
+      "weight": 0.0132,
+      "score": 4107
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0117,
+      "score": 3659
+    },
+    {
+      "genre": "experimental rock",
+      "weight": 0.0117,
+      "score": 3652
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.631
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1158
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0859
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0669
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0629
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0221
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0094
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0059
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.3791
+    },
+    {
+      "country": "GB",
+      "weight": 0.2209
+    },
+    {
+      "country": "AR",
+      "weight": 0.1086
+    },
+    {
+      "country": "PR",
+      "weight": 0.0886
+    },
+    {
+      "country": "PE",
+      "weight": 0.0682
+    },
+    {
+      "country": "JP",
+      "weight": 0.0299
+    },
+    {
+      "country": "ES",
+      "weight": 0.0285
+    },
+    {
+      "country": "CL",
+      "weight": 0.0273
+    },
+    {
+      "country": "CA",
+      "weight": 0.0245
+    },
+    {
+      "country": "MX",
+      "weight": 0.0242
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 126,
+      "scrobbles": 1990
+    },
+    {
+      "label": "Columbia",
+      "artists": 53,
+      "scrobbles": 748
+    },
+    {
+      "label": "Sony Music",
+      "artists": 30,
+      "scrobbles": 449
+    },
+    {
+      "label": "Epic",
+      "artists": 23,
+      "scrobbles": 105
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 21,
+      "scrobbles": 243
+    },
+    {
+      "label": "EMI",
+      "artists": 20,
+      "scrobbles": 634
+    },
+    {
+      "label": "4AD",
+      "artists": 18,
+      "scrobbles": 647
+    },
+    {
+      "label": "Atlantic",
+      "artists": 18,
+      "scrobbles": 434
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 15,
+      "scrobbles": 219
+    },
+    {
+      "label": "Blue Note",
+      "artists": 15,
+      "scrobbles": 150
+    },
+    {
+      "label": "RCA",
+      "artists": 14,
+      "scrobbles": 675
+    },
+    {
+      "label": "Polydor",
+      "artists": 14,
+      "scrobbles": 302
+    },
+    {
+      "label": "Domino",
+      "artists": 14,
+      "scrobbles": 161
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 14,
+      "scrobbles": 98
+    },
+    {
+      "label": "Fania",
+      "artists": 12,
+      "scrobbles": 496
+    }
+  ],
+  "musical_twin": "alberto_gu",
+  "twin_similarity": 0.137,
+  "core_artists": [
+    {
+      "artist_id": 3302,
+      "name": "Bad Bunny",
+      "loyalty_months": 37,
+      "total_scrobbles": 827
+    },
+    {
+      "artist_id": 27040,
+      "name": "Pink Floyd",
+      "loyalty_months": 37,
+      "total_scrobbles": 1432
+    },
+    {
+      "artist_id": 35159,
+      "name": "The Strokes",
+      "loyalty_months": 36,
+      "total_scrobbles": 594
+    },
+    {
+      "artist_id": 38088,
+      "name": "Willie Colón",
+      "loyalty_months": 36,
+      "total_scrobbles": 657
+    },
+    {
+      "artist_id": 10324,
+      "name": "Eddie Santiago",
+      "loyalty_months": 35,
+      "total_scrobbles": 212
+    },
+    {
+      "artist_id": 12474,
+      "name": "Frankie Ruiz",
+      "loyalty_months": 35,
+      "total_scrobbles": 288
+    },
+    {
+      "artist_id": 19295,
+      "name": "Laghonia",
+      "loyalty_months": 35,
+      "total_scrobbles": 669
+    },
+    {
+      "artist_id": 26733,
+      "name": "Pescado Rabioso",
+      "loyalty_months": 35,
+      "total_scrobbles": 769
+    },
+    {
+      "artist_id": 35088,
+      "name": "The Smiths",
+      "loyalty_months": 35,
+      "total_scrobbles": 821
+    },
+    {
+      "artist_id": 38089,
+      "name": "Willie Gonzalez",
+      "loyalty_months": 35,
+      "total_scrobbles": 203
+    },
+    {
+      "artist_id": 933,
+      "name": "Adolescent's Orquesta",
+      "loyalty_months": 34,
+      "total_scrobbles": 145
+    },
+    {
+      "artist_id": 8868,
+      "name": "Deftones",
+      "loyalty_months": 34,
+      "total_scrobbles": 288
+    },
+    {
+      "artist_id": 32413,
+      "name": "Sui Generis",
+      "loyalty_months": 34,
+      "total_scrobbles": 553
+    },
+    {
+      "artist_id": 13994,
+      "name": "Grupo Niche",
+      "loyalty_months": 33,
+      "total_scrobbles": 153
+    },
+    {
+      "artist_id": 14097,
+      "name": "Gustavo Cerati",
+      "loyalty_months": 33,
+      "total_scrobbles": 419
+    },
+    {
+      "artist_id": 23384,
+      "name": "Mitski",
+      "loyalty_months": 33,
+      "total_scrobbles": 278
+    },
+    {
+      "artist_id": 572,
+      "name": "A.C.O",
+      "loyalty_months": 32,
+      "total_scrobbles": 93
+    },
+    {
+      "artist_id": 4273,
+      "name": "Black Country, New Road",
+      "loyalty_months": 32,
+      "total_scrobbles": 291
+    },
+    {
+      "artist_id": 6717,
+      "name": "Cigarettes After Sex",
+      "loyalty_months": 32,
+      "total_scrobbles": 264
+    },
+    {
+      "artist_id": 33990,
+      "name": "The Doors",
+      "loyalty_months": 32,
+      "total_scrobbles": 468
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 44504,
+      "name": "Feeling Blew",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44030,
+      "name": "El lobo y la sociedad privada",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 23596,
+      "name": "Monotonía",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 37418,
+      "name": "Vision Arcade",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44032,
+      "name": "Chacalon Jr",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 35551,
+      "name": "This Mortal Coil",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44034,
+      "name": "Dj2019apjp",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 11085,
+      "name": "Eric Christian",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40783,
+      "name": "Donnacha Costello",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 35843,
+      "name": "Tito Rodriguez",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44035,
+      "name": "Lissa Margareta",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44036,
+      "name": "Fool's Garden",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 44037,
+      "name": "Santiago Insane",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44038,
+      "name": "Algo Caleta",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 18510,
+      "name": "Kino",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 9358,
+      "name": "Diplo",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 31373,
+      "name": "Soap",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 1995,
+      "name": "Andreas Mattsson",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 19014,
+      "name": "LOS DOLTONS",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 15542,
+      "name": "Ilegales",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 1
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:19.792357Z"
+}

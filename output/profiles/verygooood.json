@@ -1,0 +1,390 @@
+{
+  "username": "verygooood",
+  "total_scrobbles": 136103,
+  "unique_artists": 3503,
+  "unique_albums": 6679,
+  "first_scrobble": "2013-02-24",
+  "diversity_index": 0.745,
+  "adopter_type": "unknown",
+  "genre_distribution": [
+    {
+      "genre": "rock",
+      "weight": 0.0354,
+      "score": 29260
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0312,
+      "score": 25785
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0296,
+      "score": 24433
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0273,
+      "score": 22540
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0246,
+      "score": 20297
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0242,
+      "score": 20010
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0218,
+      "score": 18016
+    },
+    {
+      "genre": "hip hop",
+      "weight": 0.0209,
+      "score": 17279
+    },
+    {
+      "genre": "shoegaze",
+      "weight": 0.0201,
+      "score": 16638
+    },
+    {
+      "genre": "dream pop",
+      "weight": 0.0178,
+      "score": 14706
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0147,
+      "score": 12143
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0145,
+      "score": 11996
+    },
+    {
+      "genre": "noise pop",
+      "weight": 0.0131,
+      "score": 10825
+    },
+    {
+      "genre": "singer-songwriter",
+      "weight": 0.0124,
+      "score": 10286
+    },
+    {
+      "genre": "electronica",
+      "weight": 0.0111,
+      "score": 9158
+    },
+    {
+      "genre": "female vocalists",
+      "weight": 0.011,
+      "score": 9127
+    },
+    {
+      "genre": "experimental hip hop",
+      "weight": 0.0103,
+      "score": 8478
+    },
+    {
+      "genre": "indie pop",
+      "weight": 0.0102,
+      "score": 8470
+    },
+    {
+      "genre": "latin",
+      "weight": 0.0101,
+      "score": 8315
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.01,
+      "score": 8237
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.746
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.094
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0732
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0513
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0213
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0108
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0029
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0005
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.4354
+    },
+    {
+      "country": "GB",
+      "weight": 0.2833
+    },
+    {
+      "country": "MX",
+      "weight": 0.0497
+    },
+    {
+      "country": "AU",
+      "weight": 0.0452
+    },
+    {
+      "country": "KR",
+      "weight": 0.0418
+    },
+    {
+      "country": "JP",
+      "weight": 0.0359
+    },
+    {
+      "country": "IE",
+      "weight": 0.032
+    },
+    {
+      "country": "NL",
+      "weight": 0.0298
+    },
+    {
+      "country": "CA",
+      "weight": 0.0256
+    },
+    {
+      "country": "AR",
+      "weight": 0.0214
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 49,
+      "scrobbles": 1771
+    },
+    {
+      "label": "Columbia",
+      "artists": 45,
+      "scrobbles": 1533
+    },
+    {
+      "label": "RCA",
+      "artists": 25,
+      "scrobbles": 874
+    },
+    {
+      "label": "Sony Music",
+      "artists": 24,
+      "scrobbles": 564
+    },
+    {
+      "label": "Atlantic",
+      "artists": 23,
+      "scrobbles": 688
+    },
+    {
+      "label": "Virgin",
+      "artists": 21,
+      "scrobbles": 191
+    },
+    {
+      "label": "4AD",
+      "artists": 20,
+      "scrobbles": 1858
+    },
+    {
+      "label": "EMI",
+      "artists": 19,
+      "scrobbles": 438
+    },
+    {
+      "label": "Polydor",
+      "artists": 17,
+      "scrobbles": 486
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 17,
+      "scrobbles": 63
+    },
+    {
+      "label": "Rough Trade",
+      "artists": 16,
+      "scrobbles": 791
+    },
+    {
+      "label": "Epic",
+      "artists": 15,
+      "scrobbles": 1117
+    },
+    {
+      "label": "Mercury Records",
+      "artists": 15,
+      "scrobbles": 487
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 14,
+      "scrobbles": 370
+    },
+    {
+      "label": "Island",
+      "artists": 13,
+      "scrobbles": 1604
+    }
+  ],
+  "musical_twin": "Rocky_stereo",
+  "twin_similarity": 0.136,
+  "core_artists": [
+    {
+      "artist_id": 39703,
+      "name": "my bloody valentine",
+      "loyalty_months": 133,
+      "total_scrobbles": 2835
+    },
+    {
+      "artist_id": 31253,
+      "name": "Slowdive",
+      "loyalty_months": 110,
+      "total_scrobbles": 2433
+    },
+    {
+      "artist_id": 1531,
+      "name": "Alice in Chains",
+      "loyalty_months": 92,
+      "total_scrobbles": 1176
+    },
+    {
+      "artist_id": 17419,
+      "name": "Joy Division",
+      "loyalty_months": 91,
+      "total_scrobbles": 1504
+    },
+    {
+      "artist_id": 41060,
+      "name": "The Smashing Pumpkins",
+      "loyalty_months": 87,
+      "total_scrobbles": 808
+    },
+    {
+      "artist_id": 6233,
+      "name": "Chapterhouse",
+      "loyalty_months": 82,
+      "total_scrobbles": 609
+    },
+    {
+      "artist_id": 24946,
+      "name": "Nirvana",
+      "loyalty_months": 82,
+      "total_scrobbles": 718
+    },
+    {
+      "artist_id": 26574,
+      "name": "Pearl Jam",
+      "loyalty_months": 82,
+      "total_scrobbles": 1191
+    },
+    {
+      "artist_id": 34406,
+      "name": "The Jesus and Mary Chain",
+      "loyalty_months": 76,
+      "total_scrobbles": 716
+    },
+    {
+      "artist_id": 7008,
+      "name": "Cocteau Twins",
+      "loyalty_months": 74,
+      "total_scrobbles": 896
+    },
+    {
+      "artist_id": 16575,
+      "name": "Jeff Buckley",
+      "loyalty_months": 72,
+      "total_scrobbles": 1480
+    },
+    {
+      "artist_id": 1317,
+      "name": "Alcest",
+      "loyalty_months": 71,
+      "total_scrobbles": 545
+    },
+    {
+      "artist_id": 35088,
+      "name": "The Smiths",
+      "loyalty_months": 71,
+      "total_scrobbles": 695
+    },
+    {
+      "artist_id": 41080,
+      "name": "Radiohead",
+      "loyalty_months": 71,
+      "total_scrobbles": 739
+    },
+    {
+      "artist_id": 44546,
+      "name": "Love Battery",
+      "loyalty_months": 71,
+      "total_scrobbles": 690
+    },
+    {
+      "artist_id": 26940,
+      "name": "Pia Fraus",
+      "loyalty_months": 69,
+      "total_scrobbles": 890
+    },
+    {
+      "artist_id": 5619,
+      "name": "Camel",
+      "loyalty_months": 67,
+      "total_scrobbles": 825
+    },
+    {
+      "artist_id": 35299,
+      "name": "The Velvet Underground",
+      "loyalty_months": 67,
+      "total_scrobbles": 1101
+    },
+    {
+      "artist_id": 24638,
+      "name": "Neutral Milk Hotel",
+      "loyalty_months": 66,
+      "total_scrobbles": 658
+    },
+    {
+      "artist_id": 4594,
+      "name": "Blur",
+      "loyalty_months": 65,
+      "total_scrobbles": 424
+    }
+  ],
+  "recent_discoveries": [],
+  "generated_at": "2026-03-19T14:52:23.695975Z"
+}

@@ -1,0 +1,511 @@
+{
+  "username": "GabredMared",
+  "total_scrobbles": 138050,
+  "unique_artists": 1553,
+  "unique_albums": 2588,
+  "first_scrobble": "2020-04-12",
+  "diversity_index": 0.753,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "pop",
+      "weight": 0.0594,
+      "score": 72974
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0273,
+      "score": 33590
+    },
+    {
+      "genre": "singer-songwriter",
+      "weight": 0.0255,
+      "score": 31374
+    },
+    {
+      "genre": "art pop",
+      "weight": 0.0248,
+      "score": 30504
+    },
+    {
+      "genre": "latin",
+      "weight": 0.0232,
+      "score": 28481
+    },
+    {
+      "genre": "hip hop",
+      "weight": 0.0211,
+      "score": 25877
+    },
+    {
+      "genre": "rock",
+      "weight": 0.0208,
+      "score": 25531
+    },
+    {
+      "genre": "indie",
+      "weight": 0.017,
+      "score": 20837
+    },
+    {
+      "genre": "female vocalists",
+      "weight": 0.0168,
+      "score": 20637
+    },
+    {
+      "genre": "indie pop",
+      "weight": 0.0164,
+      "score": 20136
+    },
+    {
+      "genre": "dance",
+      "weight": 0.016,
+      "score": 19607
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0152,
+      "score": 18625
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0148,
+      "score": 18140
+    },
+    {
+      "genre": "synth-pop",
+      "weight": 0.0147,
+      "score": 18111
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0147,
+      "score": 18001
+    },
+    {
+      "genre": "electropop",
+      "weight": 0.0139,
+      "score": 17118
+    },
+    {
+      "genre": "electronica",
+      "weight": 0.0134,
+      "score": 16442
+    },
+    {
+      "genre": "alternative pop",
+      "weight": 0.0132,
+      "score": 16195
+    },
+    {
+      "genre": "ambient",
+      "weight": 0.0119,
+      "score": 14650
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0119,
+      "score": 14573
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.5895
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.143
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1404
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0488
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0435
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0232
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0095
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0021
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.3264
+    },
+    {
+      "country": "GB",
+      "weight": 0.167
+    },
+    {
+      "country": "ES",
+      "weight": 0.11
+    },
+    {
+      "country": "FR",
+      "weight": 0.1082
+    },
+    {
+      "country": "MX",
+      "weight": 0.0987
+    },
+    {
+      "country": "CL",
+      "weight": 0.0547
+    },
+    {
+      "country": "CA",
+      "weight": 0.04
+    },
+    {
+      "country": "PR",
+      "weight": 0.0354
+    },
+    {
+      "country": "CO",
+      "weight": 0.0326
+    },
+    {
+      "country": "AR",
+      "weight": 0.027
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "Columbia",
+      "artists": 56,
+      "scrobbles": 8649
+    },
+    {
+      "label": "[no label]",
+      "artists": 52,
+      "scrobbles": 2087
+    },
+    {
+      "label": "Atlantic",
+      "artists": 33,
+      "scrobbles": 664
+    },
+    {
+      "label": "RCA",
+      "artists": 29,
+      "scrobbles": 5030
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 25,
+      "scrobbles": 6287
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 23,
+      "scrobbles": 2503
+    },
+    {
+      "label": "EMI",
+      "artists": 22,
+      "scrobbles": 3860
+    },
+    {
+      "label": "Island",
+      "artists": 22,
+      "scrobbles": 708
+    },
+    {
+      "label": "Sony Music",
+      "artists": 21,
+      "scrobbles": 2670
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 21,
+      "scrobbles": 1724
+    },
+    {
+      "label": "Epic",
+      "artists": 20,
+      "scrobbles": 1160
+    },
+    {
+      "label": "Polydor",
+      "artists": 18,
+      "scrobbles": 3126
+    },
+    {
+      "label": "Sony Music | Latin",
+      "artists": 17,
+      "scrobbles": 698
+    },
+    {
+      "label": "Republic Records",
+      "artists": 14,
+      "scrobbles": 4006
+    },
+    {
+      "label": "4AD",
+      "artists": 14,
+      "scrobbles": 3382
+    }
+  ],
+  "musical_twin": "verygooood",
+  "twin_similarity": 0.133,
+  "core_artists": [
+    {
+      "artist_id": 2525,
+      "name": "Ariana Grande",
+      "loyalty_months": 69,
+      "total_scrobbles": 796
+    },
+    {
+      "artist_id": 19343,
+      "name": "Lana Del Rey",
+      "loyalty_months": 68,
+      "total_scrobbles": 5327
+    },
+    {
+      "artist_id": 33147,
+      "name": "Taylor Swift",
+      "loyalty_months": 68,
+      "total_scrobbles": 3068
+    },
+    {
+      "artist_id": 27928,
+      "name": "ROSALÍA",
+      "loyalty_months": 67,
+      "total_scrobbles": 4876
+    },
+    {
+      "artist_id": 36420,
+      "name": "Troye Sivan",
+      "loyalty_months": 66,
+      "total_scrobbles": 1821
+    },
+    {
+      "artist_id": 24398,
+      "name": "Natalia Lafourcade",
+      "loyalty_months": 65,
+      "total_scrobbles": 1259
+    },
+    {
+      "artist_id": 30518,
+      "name": "Shakira",
+      "loyalty_months": 65,
+      "total_scrobbles": 802
+    },
+    {
+      "artist_id": 38802,
+      "name": "Zayn",
+      "loyalty_months": 65,
+      "total_scrobbles": 3995
+    },
+    {
+      "artist_id": 30318,
+      "name": "Selena Gomez",
+      "loyalty_months": 64,
+      "total_scrobbles": 659
+    },
+    {
+      "artist_id": 20371,
+      "name": "Lorde",
+      "loyalty_months": 63,
+      "total_scrobbles": 1569
+    },
+    {
+      "artist_id": 2459,
+      "name": "Arca",
+      "loyalty_months": 60,
+      "total_scrobbles": 9245
+    },
+    {
+      "artist_id": 3302,
+      "name": "Bad Bunny",
+      "loyalty_months": 60,
+      "total_scrobbles": 1434
+    },
+    {
+      "artist_id": 17191,
+      "name": "Jon Bellion",
+      "loyalty_months": 60,
+      "total_scrobbles": 602
+    },
+    {
+      "artist_id": 18106,
+      "name": "Katy Perry",
+      "loyalty_months": 60,
+      "total_scrobbles": 384
+    },
+    {
+      "artist_id": 16865,
+      "name": "Joan Manuel Serrat",
+      "loyalty_months": 59,
+      "total_scrobbles": 1028
+    },
+    {
+      "artist_id": 17746,
+      "name": "KAROL G",
+      "loyalty_months": 59,
+      "total_scrobbles": 861
+    },
+    {
+      "artist_id": 21064,
+      "name": "Lupita D'Alessio",
+      "loyalty_months": 59,
+      "total_scrobbles": 482
+    },
+    {
+      "artist_id": 28748,
+      "name": "Rina Sawayama",
+      "loyalty_months": 59,
+      "total_scrobbles": 1154
+    },
+    {
+      "artist_id": 5397,
+      "name": "C. Tangana",
+      "loyalty_months": 58,
+      "total_scrobbles": 2909
+    },
+    {
+      "artist_id": 35355,
+      "name": "The Weeknd",
+      "loyalty_months": 58,
+      "total_scrobbles": 855
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 42481,
+      "name": "Ferkat Al Ard",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 23925,
+      "name": "Ms Nina",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42490,
+      "name": "Philip Glass Ensemble",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 4
+    },
+    {
+      "artist_id": 19134,
+      "name": "La Lupe",
+      "first_listen": "2026-02-25",
+      "scrobbles_since": 17
+    },
+    {
+      "artist_id": 42493,
+      "name": "Bola De Nieve",
+      "first_listen": "2026-02-25",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42487,
+      "name": "Markolino Dimond",
+      "first_listen": "2026-02-22",
+      "scrobbles_since": 12
+    },
+    {
+      "artist_id": 42502,
+      "name": "Chabuca Granda",
+      "first_listen": "2026-02-17",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42503,
+      "name": "椎名林檎",
+      "first_listen": "2026-02-17",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 22751,
+      "name": "Meredith Monk",
+      "first_listen": "2026-02-16",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 28068,
+      "name": "Rainsford",
+      "first_listen": "2026-02-16",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42429,
+      "name": "Sinéad O'Connor",
+      "first_listen": "2026-02-16",
+      "scrobbles_since": 4
+    },
+    {
+      "artist_id": 42507,
+      "name": "Ralph Vaughan Williams",
+      "first_listen": "2026-02-15",
+      "scrobbles_since": 4
+    },
+    {
+      "artist_id": 42151,
+      "name": "平沢進",
+      "first_listen": "2026-02-14",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42508,
+      "name": "Ertiub",
+      "first_listen": "2026-02-14",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42330,
+      "name": "Siouxsie and the Banshees",
+      "first_listen": "2026-02-13",
+      "scrobbles_since": 5
+    },
+    {
+      "artist_id": 42496,
+      "name": "Extremoduro",
+      "first_listen": "2026-02-13",
+      "scrobbles_since": 3
+    },
+    {
+      "artist_id": 42489,
+      "name": "Conjunto De Cándido Herrera",
+      "first_listen": "2026-02-13",
+      "scrobbles_since": 15
+    },
+    {
+      "artist_id": 41708,
+      "name": "Miranda!",
+      "first_listen": "2026-02-13",
+      "scrobbles_since": 64
+    },
+    {
+      "artist_id": 2620,
+      "name": "Art Blakey",
+      "first_listen": "2026-02-10",
+      "scrobbles_since": 21
+    },
+    {
+      "artist_id": 9627,
+      "name": "Don Cherry",
+      "first_listen": "2026-02-09",
+      "scrobbles_since": 2
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:17.414434Z"
+}

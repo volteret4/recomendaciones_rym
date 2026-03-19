@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-03-19T14:52:23.715443Z",
+  "users": [
+    "EliasJ72",
+    "Frikomid",
+    "GabredMared",
+    "Lonsonxd",
+    "Nubis84",
+    "Rocky_stereo",
+    "alberto_gu",
+    "paqueradejere",
+    "sdecandelario",
+    "BipolarMuzik",
+    "verygooood"
+  ],
+  "top_n": 60,
+  "phase": 1,
+  "active_engines": [
+    "collab_direct",
+    "musical_twin",
+    "anti_bubble",
+    "group_consensus",
+    "genre_bridge",
+    "decade_explorer",
+    "country_affinity",
+    "trending_group",
+    "deep_discography",
+    "label_curator",
+    "shared_producers",
+    "rating_curator"
+  ]
+}

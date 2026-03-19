@@ -1,0 +1,386 @@
+{
+  "username": "BipolarMuzik",
+  "total_scrobbles": 67783,
+  "unique_artists": 788,
+  "unique_albums": 2105,
+  "first_scrobble": "2012-07-02",
+  "diversity_index": 0.774,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "metal",
+      "weight": 0.0649,
+      "score": 24584
+    },
+    {
+      "genre": "rock",
+      "weight": 0.0561,
+      "score": 21238
+    },
+    {
+      "genre": "progressive rock",
+      "weight": 0.0551,
+      "score": 20858
+    },
+    {
+      "genre": "progressive metal",
+      "weight": 0.0406,
+      "score": 15356
+    },
+    {
+      "genre": "alternative metal",
+      "weight": 0.0357,
+      "score": 13500
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0338,
+      "score": 12813
+    },
+    {
+      "genre": "progressive",
+      "weight": 0.0311,
+      "score": 11777
+    },
+    {
+      "genre": "nu metal",
+      "weight": 0.021,
+      "score": 7951
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0208,
+      "score": 7874
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0193,
+      "score": 7298
+    },
+    {
+      "genre": "metalcore",
+      "weight": 0.0174,
+      "score": 6584
+    },
+    {
+      "genre": "female vocalists",
+      "weight": 0.0163,
+      "score": 6165
+    },
+    {
+      "genre": "art rock",
+      "weight": 0.0157,
+      "score": 5948
+    },
+    {
+      "genre": "ambient",
+      "weight": 0.0149,
+      "score": 5636
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0148,
+      "score": 5614
+    },
+    {
+      "genre": "heavy metal",
+      "weight": 0.0138,
+      "score": 5225
+    },
+    {
+      "genre": "melodic death metal",
+      "weight": 0.0137,
+      "score": 5205
+    },
+    {
+      "genre": "hard rock",
+      "weight": 0.0114,
+      "score": 4298
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0108,
+      "score": 4081
+    },
+    {
+      "genre": "downtempo",
+      "weight": 0.0102,
+      "score": 3853
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.7693
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1119
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0709
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0273
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0102
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0083
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.002
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.4047
+    },
+    {
+      "country": "GB",
+      "weight": 0.2361
+    },
+    {
+      "country": "CA",
+      "weight": 0.0879
+    },
+    {
+      "country": "SE",
+      "weight": 0.0839
+    },
+    {
+      "country": "PL",
+      "weight": 0.0469
+    },
+    {
+      "country": "ES",
+      "weight": 0.0408
+    },
+    {
+      "country": "JP",
+      "weight": 0.038
+    },
+    {
+      "country": "NL",
+      "weight": 0.0255
+    },
+    {
+      "country": "DE",
+      "weight": 0.0191
+    },
+    {
+      "country": "RU",
+      "weight": 0.0172
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "Roadrunner Records",
+      "artists": 20,
+      "scrobbles": 3632
+    },
+    {
+      "label": "Inside Out Music",
+      "artists": 19,
+      "scrobbles": 4428
+    },
+    {
+      "label": "Epic",
+      "artists": 13,
+      "scrobbles": 1300
+    },
+    {
+      "label": "Century Media",
+      "artists": 13,
+      "scrobbles": 638
+    },
+    {
+      "label": "Atlantic",
+      "artists": 12,
+      "scrobbles": 394
+    },
+    {
+      "label": "Columbia",
+      "artists": 12,
+      "scrobbles": 240
+    },
+    {
+      "label": "[no label]",
+      "artists": 11,
+      "scrobbles": 540
+    },
+    {
+      "label": "Sony Music",
+      "artists": 9,
+      "scrobbles": 737
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 9,
+      "scrobbles": 688
+    },
+    {
+      "label": "Virgin",
+      "artists": 8,
+      "scrobbles": 880
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 7,
+      "scrobbles": 539
+    },
+    {
+      "label": "Nuclear Blast",
+      "artists": 7,
+      "scrobbles": 248
+    },
+    {
+      "label": "Reprise Records",
+      "artists": 6,
+      "scrobbles": 1234
+    },
+    {
+      "label": "Geffen Records",
+      "artists": 6,
+      "scrobbles": 103
+    },
+    {
+      "label": "Kscope",
+      "artists": 5,
+      "scrobbles": 530
+    }
+  ],
+  "musical_twin": "Lonsonxd",
+  "twin_similarity": 0.065,
+  "core_artists": [
+    {
+      "artist_id": 8868,
+      "name": "Deftones",
+      "loyalty_months": 128,
+      "total_scrobbles": 1774
+    },
+    {
+      "artist_id": 40748,
+      "name": "Björk",
+      "loyalty_months": 128,
+      "total_scrobbles": 2047
+    },
+    {
+      "artist_id": 18419,
+      "name": "Killswitch Engage",
+      "loyalty_months": 123,
+      "total_scrobbles": 2262
+    },
+    {
+      "artist_id": 28813,
+      "name": "Riverside",
+      "loyalty_months": 117,
+      "total_scrobbles": 2372
+    },
+    {
+      "artist_id": 9885,
+      "name": "Dream Theater",
+      "loyalty_months": 113,
+      "total_scrobbles": 1280
+    },
+    {
+      "artist_id": 25695,
+      "name": "Opeth",
+      "loyalty_months": 107,
+      "total_scrobbles": 1445
+    },
+    {
+      "artist_id": 9137,
+      "name": "Devin Townsend",
+      "loyalty_months": 92,
+      "total_scrobbles": 1201
+    },
+    {
+      "artist_id": 9138,
+      "name": "Devin Townsend Project",
+      "loyalty_months": 91,
+      "total_scrobbles": 1320
+    },
+    {
+      "artist_id": 22297,
+      "name": "Massive Attack",
+      "loyalty_months": 80,
+      "total_scrobbles": 772
+    },
+    {
+      "artist_id": 30439,
+      "name": "Seven Steps to the Green Door",
+      "loyalty_months": 75,
+      "total_scrobbles": 712
+    },
+    {
+      "artist_id": 12652,
+      "name": "Frost*",
+      "loyalty_months": 74,
+      "total_scrobbles": 650
+    },
+    {
+      "artist_id": 3124,
+      "name": "BABYMETAL",
+      "loyalty_months": 71,
+      "total_scrobbles": 861
+    },
+    {
+      "artist_id": 35773,
+      "name": "Times of Grace",
+      "loyalty_months": 67,
+      "total_scrobbles": 670
+    },
+    {
+      "artist_id": 41884,
+      "name": "Emilíana Torrini",
+      "loyalty_months": 67,
+      "total_scrobbles": 630
+    },
+    {
+      "artist_id": 26210,
+      "name": "Pantera",
+      "loyalty_months": 65,
+      "total_scrobbles": 680
+    },
+    {
+      "artist_id": 29367,
+      "name": "Rush",
+      "loyalty_months": 64,
+      "total_scrobbles": 823
+    },
+    {
+      "artist_id": 41874,
+      "name": "分島花音",
+      "loyalty_months": 64,
+      "total_scrobbles": 606
+    },
+    {
+      "artist_id": 27356,
+      "name": "Portishead",
+      "loyalty_months": 63,
+      "total_scrobbles": 548
+    },
+    {
+      "artist_id": 25852,
+      "name": "Osi",
+      "loyalty_months": 62,
+      "total_scrobbles": 666
+    },
+    {
+      "artist_id": 3549,
+      "name": "Bat for Lashes",
+      "loyalty_months": 61,
+      "total_scrobbles": 575
+    }
+  ],
+  "recent_discoveries": [],
+  "generated_at": "2026-03-19T14:52:22.870340Z"
+}

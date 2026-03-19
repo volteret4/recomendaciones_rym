@@ -2,8 +2,8 @@
 **/.env*
 *.db*
 **/.db*
-*.json*
-**/.json*
+#*.json*
+#**/.json*
 *.csv*
 **/.csv*
 **/__pycache__/

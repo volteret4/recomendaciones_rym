@@ -1,0 +1,511 @@
+{
+  "username": "sdecandelario",
+  "total_scrobbles": 227013,
+  "unique_artists": 8038,
+  "unique_albums": 17041,
+  "first_scrobble": "1970-01-01",
+  "diversity_index": 0.802,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "rock",
+      "weight": 0.047,
+      "score": 67921
+    },
+    {
+      "genre": "metal",
+      "weight": 0.0354,
+      "score": 51172
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0291,
+      "score": 42068
+    },
+    {
+      "genre": "heavy metal",
+      "weight": 0.0287,
+      "score": 41434
+    },
+    {
+      "genre": "punk",
+      "weight": 0.026,
+      "score": 37504
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0255,
+      "score": 36897
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0229,
+      "score": 33114
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0228,
+      "score": 33017
+    },
+    {
+      "genre": "hard rock",
+      "weight": 0.0217,
+      "score": 31367
+    },
+    {
+      "genre": "punk rock",
+      "weight": 0.0179,
+      "score": 25882
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0164,
+      "score": 23708
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0158,
+      "score": 22829
+    },
+    {
+      "genre": "power metal",
+      "weight": 0.0124,
+      "score": 17936
+    },
+    {
+      "genre": "synth-pop",
+      "weight": 0.0119,
+      "score": 17178
+    },
+    {
+      "genre": "new wave",
+      "weight": 0.0116,
+      "score": 16717
+    },
+    {
+      "genre": "speed metal",
+      "weight": 0.0101,
+      "score": 14608
+    },
+    {
+      "genre": "hardcore punk",
+      "weight": 0.0098,
+      "score": 14223
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0093,
+      "score": 13424
+    },
+    {
+      "genre": "classic rock",
+      "weight": 0.0092,
+      "score": 13232
+    },
+    {
+      "genre": "post-hardcore",
+      "weight": 0.0089,
+      "score": 12905
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.5929
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1518
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.1227
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0521
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.05
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0278
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0025
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0002
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.3643
+    },
+    {
+      "country": "GB",
+      "weight": 0.2363
+    },
+    {
+      "country": "DE",
+      "weight": 0.1075
+    },
+    {
+      "country": "ES",
+      "weight": 0.0997
+    },
+    {
+      "country": "FR",
+      "weight": 0.045
+    },
+    {
+      "country": "SE",
+      "weight": 0.0441
+    },
+    {
+      "country": "CA",
+      "weight": 0.0424
+    },
+    {
+      "country": "AU",
+      "weight": 0.021
+    },
+    {
+      "country": "NO",
+      "weight": 0.0206
+    },
+    {
+      "country": "FI",
+      "weight": 0.0191
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 435,
+      "scrobbles": 4501
+    },
+    {
+      "label": "Columbia",
+      "artists": 108,
+      "scrobbles": 2678
+    },
+    {
+      "label": "Nuclear Blast",
+      "artists": 91,
+      "scrobbles": 3725
+    },
+    {
+      "label": "Century Media",
+      "artists": 76,
+      "scrobbles": 1862
+    },
+    {
+      "label": "Epitaph",
+      "artists": 67,
+      "scrobbles": 2609
+    },
+    {
+      "label": "Roadrunner Records",
+      "artists": 63,
+      "scrobbles": 2715
+    },
+    {
+      "label": "Virgin",
+      "artists": 63,
+      "scrobbles": 2645
+    },
+    {
+      "label": "Atlantic",
+      "artists": 62,
+      "scrobbles": 1951
+    },
+    {
+      "label": "EMI",
+      "artists": 61,
+      "scrobbles": 1430
+    },
+    {
+      "label": "Epic",
+      "artists": 61,
+      "scrobbles": 1344
+    },
+    {
+      "label": "Sub Pop Records",
+      "artists": 60,
+      "scrobbles": 814
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 57,
+      "scrobbles": 1356
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 54,
+      "scrobbles": 2166
+    },
+    {
+      "label": "RCA",
+      "artists": 51,
+      "scrobbles": 1594
+    },
+    {
+      "label": "Relapse Records",
+      "artists": 50,
+      "scrobbles": 878
+    }
+  ],
+  "musical_twin": "Nubis84",
+  "twin_similarity": 0.177,
+  "core_artists": [
+    {
+      "artist_id": 33792,
+      "name": "The Chemical Brothers",
+      "loyalty_months": 152,
+      "total_scrobbles": 2062
+    },
+    {
+      "artist_id": 8061,
+      "name": "Da",
+      "loyalty_months": 148,
+      "total_scrobbles": 1828
+    },
+    {
+      "artist_id": 17674,
+      "name": "Justice",
+      "loyalty_months": 130,
+      "total_scrobbles": 672
+    },
+    {
+      "artist_id": 27814,
+      "name": "Queens of the Stone Age",
+      "loyalty_months": 130,
+      "total_scrobbles": 1128
+    },
+    {
+      "artist_id": 37436,
+      "name": "Vitalic",
+      "loyalty_months": 128,
+      "total_scrobbles": 1199
+    },
+    {
+      "artist_id": 15809,
+      "name": "Interpol",
+      "loyalty_months": 125,
+      "total_scrobbles": 1153
+    },
+    {
+      "artist_id": 24675,
+      "name": "New Order",
+      "loyalty_months": 121,
+      "total_scrobbles": 628
+    },
+    {
+      "artist_id": 17419,
+      "name": "Joy Division",
+      "loyalty_months": 119,
+      "total_scrobbles": 635
+    },
+    {
+      "artist_id": 7590,
+      "name": "Crystal Castles",
+      "loyalty_months": 118,
+      "total_scrobbles": 1033
+    },
+    {
+      "artist_id": 24925,
+      "name": "Nine Inch Nails",
+      "loyalty_months": 116,
+      "total_scrobbles": 949
+    },
+    {
+      "artist_id": 3313,
+      "name": "Bad Religion",
+      "loyalty_months": 115,
+      "total_scrobbles": 1590
+    },
+    {
+      "artist_id": 12492,
+      "name": "Franz Ferdinand",
+      "loyalty_months": 115,
+      "total_scrobbles": 957
+    },
+    {
+      "artist_id": 17496,
+      "name": "Judas Priest",
+      "loyalty_months": 115,
+      "total_scrobbles": 2441
+    },
+    {
+      "artist_id": 34315,
+      "name": "The Hives",
+      "loyalty_months": 114,
+      "total_scrobbles": 797
+    },
+    {
+      "artist_id": 7126,
+      "name": "Combichrist",
+      "loyalty_months": 113,
+      "total_scrobbles": 870
+    },
+    {
+      "artist_id": 36494,
+      "name": "Turbonegro",
+      "loyalty_months": 109,
+      "total_scrobbles": 1105
+    },
+    {
+      "artist_id": 35159,
+      "name": "The Strokes",
+      "loyalty_months": 105,
+      "total_scrobbles": 720
+    },
+    {
+      "artist_id": 23328,
+      "name": "Misfits",
+      "loyalty_months": 104,
+      "total_scrobbles": 800
+    },
+    {
+      "artist_id": 34450,
+      "name": "The Knife",
+      "loyalty_months": 101,
+      "total_scrobbles": 603
+    },
+    {
+      "artist_id": 27106,
+      "name": "Pixies",
+      "loyalty_months": 99,
+      "total_scrobbles": 366
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 8670,
+      "name": "Dead Husband",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44271,
+      "name": "John Foxx & The Maths",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 8
+    },
+    {
+      "artist_id": 44272,
+      "name": "Camy Huot",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44273,
+      "name": "Laura Krieg",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44276,
+      "name": "Psycho Weazel",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44277,
+      "name": "A Shrine to Failure",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 37605,
+      "name": "WITCHROT",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 14945,
+      "name": "Hoffen",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 14656,
+      "name": "Helena Hauff",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44278,
+      "name": "Sexbeat",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44279,
+      "name": "Delirios Krónicos",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 1260,
+      "name": "Alan Vega",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44280,
+      "name": "Stella Rose",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 10603,
+      "name": "Ela Minus",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44281,
+      "name": "Max & Intro",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44282,
+      "name": "Kælan Mikla",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 30493,
+      "name": "Shad Shadows",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 25210,
+      "name": "Nox Novacula",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 44283,
+      "name": "Утро",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 20228,
+      "name": "Local Suicide",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 4
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:22.181321Z"
+}

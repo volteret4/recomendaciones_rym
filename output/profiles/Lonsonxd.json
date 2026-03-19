@@ -1,0 +1,511 @@
+{
+  "username": "Lonsonxd",
+  "total_scrobbles": 165352,
+  "unique_artists": 3799,
+  "unique_albums": 8163,
+  "first_scrobble": "2020-10-03",
+  "diversity_index": 0.747,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "rock",
+      "weight": 0.0739,
+      "score": 79352
+    },
+    {
+      "genre": "metal",
+      "weight": 0.0504,
+      "score": 54096
+    },
+    {
+      "genre": "progressive rock",
+      "weight": 0.0445,
+      "score": 47762
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0338,
+      "score": 36284
+    },
+    {
+      "genre": "hard rock",
+      "weight": 0.0297,
+      "score": 31832
+    },
+    {
+      "genre": "heavy metal",
+      "weight": 0.0268,
+      "score": 28723
+    },
+    {
+      "genre": "progressive metal",
+      "weight": 0.0258,
+      "score": 27643
+    },
+    {
+      "genre": "classic rock",
+      "weight": 0.0208,
+      "score": 22281
+    },
+    {
+      "genre": "art rock",
+      "weight": 0.0203,
+      "score": 21743
+    },
+    {
+      "genre": "progressive",
+      "weight": 0.0197,
+      "score": 21193
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0193,
+      "score": 20683
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0174,
+      "score": 18643
+    },
+    {
+      "genre": "alternative metal",
+      "weight": 0.0169,
+      "score": 18161
+    },
+    {
+      "genre": "spanish",
+      "weight": 0.015,
+      "score": 16047
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0124,
+      "score": 13320
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0112,
+      "score": 12026
+    },
+    {
+      "genre": "psychedelic rock",
+      "weight": 0.0112,
+      "score": 12001
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0094,
+      "score": 10089
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0092,
+      "score": 9882
+    },
+    {
+      "genre": "death metal",
+      "weight": 0.009,
+      "score": 9699
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.6096
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1034
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0953
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0877
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0438
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0383
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0212
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0006
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.3159
+    },
+    {
+      "country": "GB",
+      "weight": 0.2433
+    },
+    {
+      "country": "ES",
+      "weight": 0.2071
+    },
+    {
+      "country": "SE",
+      "weight": 0.0672
+    },
+    {
+      "country": "AR",
+      "weight": 0.053
+    },
+    {
+      "country": "DE",
+      "weight": 0.0372
+    },
+    {
+      "country": "CA",
+      "weight": 0.0263
+    },
+    {
+      "country": "JP",
+      "weight": 0.0184
+    },
+    {
+      "country": "NO",
+      "weight": 0.016
+    },
+    {
+      "country": "FR",
+      "weight": 0.0156
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 200,
+      "scrobbles": 3213
+    },
+    {
+      "label": "Nuclear Blast",
+      "artists": 82,
+      "scrobbles": 1710
+    },
+    {
+      "label": "Columbia",
+      "artists": 59,
+      "scrobbles": 2491
+    },
+    {
+      "label": "EMI",
+      "artists": 54,
+      "scrobbles": 2476
+    },
+    {
+      "label": "Century Media",
+      "artists": 50,
+      "scrobbles": 1251
+    },
+    {
+      "label": "Virgin",
+      "artists": 49,
+      "scrobbles": 1605
+    },
+    {
+      "label": "Atlantic",
+      "artists": 45,
+      "scrobbles": 1920
+    },
+    {
+      "label": "RCA",
+      "artists": 45,
+      "scrobbles": 1687
+    },
+    {
+      "label": "Sony Music",
+      "artists": 44,
+      "scrobbles": 1037
+    },
+    {
+      "label": "Roadrunner Records",
+      "artists": 43,
+      "scrobbles": 3922
+    },
+    {
+      "label": "Polydor",
+      "artists": 40,
+      "scrobbles": 1715
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 37,
+      "scrobbles": 2550
+    },
+    {
+      "label": "Epic",
+      "artists": 35,
+      "scrobbles": 2494
+    },
+    {
+      "label": "Inside Out Music",
+      "artists": 33,
+      "scrobbles": 5023
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 32,
+      "scrobbles": 938
+    }
+  ],
+  "musical_twin": "Nubis84",
+  "twin_similarity": 0.171,
+  "core_artists": [
+    {
+      "artist_id": 15877,
+      "name": "Iron Maiden",
+      "loyalty_months": 66,
+      "total_scrobbles": 3031
+    },
+    {
+      "artist_id": 26210,
+      "name": "Pantera",
+      "loyalty_months": 66,
+      "total_scrobbles": 1357
+    },
+    {
+      "artist_id": 8868,
+      "name": "Deftones",
+      "loyalty_months": 65,
+      "total_scrobbles": 1503
+    },
+    {
+      "artist_id": 9885,
+      "name": "Dream Theater",
+      "loyalty_months": 65,
+      "total_scrobbles": 2475
+    },
+    {
+      "artist_id": 22314,
+      "name": "Mastodon",
+      "loyalty_months": 65,
+      "total_scrobbles": 1084
+    },
+    {
+      "artist_id": 24925,
+      "name": "Nine Inch Nails",
+      "loyalty_months": 65,
+      "total_scrobbles": 4402
+    },
+    {
+      "artist_id": 25695,
+      "name": "Opeth",
+      "loyalty_months": 65,
+      "total_scrobbles": 2117
+    },
+    {
+      "artist_id": 27334,
+      "name": "Porcupine Tree",
+      "loyalty_months": 65,
+      "total_scrobbles": 2318
+    },
+    {
+      "artist_id": 30980,
+      "name": "Siniestro Total",
+      "loyalty_months": 65,
+      "total_scrobbles": 1620
+    },
+    {
+      "artist_id": 36085,
+      "name": "Tool",
+      "loyalty_months": 64,
+      "total_scrobbles": 1548
+    },
+    {
+      "artist_id": 1531,
+      "name": "Alice in Chains",
+      "loyalty_months": 63,
+      "total_scrobbles": 930
+    },
+    {
+      "artist_id": 8479,
+      "name": "David Bowie",
+      "loyalty_months": 63,
+      "total_scrobbles": 1190
+    },
+    {
+      "artist_id": 13252,
+      "name": "Ghost",
+      "loyalty_months": 63,
+      "total_scrobbles": 1834
+    },
+    {
+      "artist_id": 19775,
+      "name": "Leprous",
+      "loyalty_months": 63,
+      "total_scrobbles": 1688
+    },
+    {
+      "artist_id": 22022,
+      "name": "Marillion",
+      "loyalty_months": 63,
+      "total_scrobbles": 3086
+    },
+    {
+      "artist_id": 26133,
+      "name": "Pain of Salvation",
+      "loyalty_months": 63,
+      "total_scrobbles": 2190
+    },
+    {
+      "artist_id": 28102,
+      "name": "Rammstein",
+      "loyalty_months": 63,
+      "total_scrobbles": 1274
+    },
+    {
+      "artist_id": 31180,
+      "name": "Slayer",
+      "loyalty_months": 63,
+      "total_scrobbles": 708
+    },
+    {
+      "artist_id": 31230,
+      "name": "Slipknot",
+      "loyalty_months": 63,
+      "total_scrobbles": 572
+    },
+    {
+      "artist_id": 522,
+      "name": "A Perfect Circle",
+      "loyalty_months": 62,
+      "total_scrobbles": 819
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 30508,
+      "name": "Shaggy",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 41060,
+      "name": "The Smashing Pumpkins",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 42016,
+      "name": "The Sundays",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 5
+    },
+    {
+      "artist_id": 42552,
+      "name": "Silly Wizard",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42553,
+      "name": "Alasdair Fraser",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42554,
+      "name": "Relativity",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42555,
+      "name": "Kíla",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 11593,
+      "name": "Fairport Convention",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 4
+    },
+    {
+      "artist_id": 42556,
+      "name": "James Fagan",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42557,
+      "name": "Eddi Reader",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42560,
+      "name": "Paul Brady",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 35342,
+      "name": "The Waterboys",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42561,
+      "name": "Maddy Prior",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 42563,
+      "name": "Moira Craig",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42566,
+      "name": "The Watersons",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42567,
+      "name": "Karan Casey",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42568,
+      "name": "Tim Hart and Maddy Prior",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42569,
+      "name": "Margie Butler",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42570,
+      "name": "Nic Jones",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42564,
+      "name": "Lumiere",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 11
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:18.307637Z"
+}

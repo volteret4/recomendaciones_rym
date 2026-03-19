@@ -1,0 +1,511 @@
+{
+  "username": "alberto_gu",
+  "total_scrobbles": 69366,
+  "unique_artists": 3447,
+  "unique_albums": 3507,
+  "first_scrobble": "2018-03-11",
+  "diversity_index": 0.775,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "hip hop",
+      "weight": 0.0425,
+      "score": 21300
+    },
+    {
+      "genre": "rock",
+      "weight": 0.0342,
+      "score": 17143
+    },
+    {
+      "genre": "pop",
+      "weight": 0.028,
+      "score": 14013
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0264,
+      "score": 13226
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0215,
+      "score": 10758
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0209,
+      "score": 10470
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0209,
+      "score": 10448
+    },
+    {
+      "genre": "hip-hop",
+      "weight": 0.0192,
+      "score": 9599
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0191,
+      "score": 9590
+    },
+    {
+      "genre": "trap",
+      "weight": 0.019,
+      "score": 9495
+    },
+    {
+      "genre": "rap",
+      "weight": 0.0166,
+      "score": 8315
+    },
+    {
+      "genre": "latin",
+      "weight": 0.0155,
+      "score": 7751
+    },
+    {
+      "genre": "hardcore hip hop",
+      "weight": 0.0129,
+      "score": 6474
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0127,
+      "score": 6374
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0125,
+      "score": 6272
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0123,
+      "score": 6154
+    },
+    {
+      "genre": "pop rap",
+      "weight": 0.012,
+      "score": 5994
+    },
+    {
+      "genre": "southern hip hop",
+      "weight": 0.0117,
+      "score": 5867
+    },
+    {
+      "genre": "indie pop",
+      "weight": 0.0106,
+      "score": 5305
+    },
+    {
+      "genre": "new wave",
+      "weight": 0.0106,
+      "score": 5288
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.6305
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1252
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.1169
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.071
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0287
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0176
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0082
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0018
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.5429
+    },
+    {
+      "country": "GB",
+      "weight": 0.2191
+    },
+    {
+      "country": "PR",
+      "weight": 0.0642
+    },
+    {
+      "country": "CA",
+      "weight": 0.0637
+    },
+    {
+      "country": "FR",
+      "weight": 0.0217
+    },
+    {
+      "country": "CO",
+      "weight": 0.0208
+    },
+    {
+      "country": "DE",
+      "weight": 0.0176
+    },
+    {
+      "country": "ES",
+      "weight": 0.0174
+    },
+    {
+      "country": "IL",
+      "weight": 0.0168
+    },
+    {
+      "country": "AR",
+      "weight": 0.0157
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 48,
+      "scrobbles": 1337
+    },
+    {
+      "label": "Columbia",
+      "artists": 45,
+      "scrobbles": 1371
+    },
+    {
+      "label": "Atlantic",
+      "artists": 36,
+      "scrobbles": 715
+    },
+    {
+      "label": "EMI",
+      "artists": 23,
+      "scrobbles": 471
+    },
+    {
+      "label": "Epic",
+      "artists": 22,
+      "scrobbles": 2070
+    },
+    {
+      "label": "Virgin",
+      "artists": 22,
+      "scrobbles": 559
+    },
+    {
+      "label": "Geffen Records",
+      "artists": 21,
+      "scrobbles": 989
+    },
+    {
+      "label": "Polydor",
+      "artists": 21,
+      "scrobbles": 371
+    },
+    {
+      "label": "Chillhop Records",
+      "artists": 21,
+      "scrobbles": 71
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 20,
+      "scrobbles": 785
+    },
+    {
+      "label": "RCA",
+      "artists": 19,
+      "scrobbles": 949
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 18,
+      "scrobbles": 409
+    },
+    {
+      "label": "Domino",
+      "artists": 17,
+      "scrobbles": 473
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 17,
+      "scrobbles": 326
+    },
+    {
+      "label": "Sony Music | Latin",
+      "artists": 17,
+      "scrobbles": 317
+    }
+  ],
+  "musical_twin": "Rocky_stereo",
+  "twin_similarity": 0.137,
+  "core_artists": [
+    {
+      "artist_id": 17941,
+      "name": "Kanye West",
+      "loyalty_months": 97,
+      "total_scrobbles": 2016
+    },
+    {
+      "artist_id": 3302,
+      "name": "Bad Bunny",
+      "loyalty_months": 84,
+      "total_scrobbles": 937
+    },
+    {
+      "artist_id": 9850,
+      "name": "Drake",
+      "loyalty_months": 82,
+      "total_scrobbles": 1535
+    },
+    {
+      "artist_id": 35088,
+      "name": "The Smiths",
+      "loyalty_months": 81,
+      "total_scrobbles": 1508
+    },
+    {
+      "artist_id": 2393,
+      "name": "Aphex Twin",
+      "loyalty_months": 73,
+      "total_scrobbles": 344
+    },
+    {
+      "artist_id": 36290,
+      "name": "Travis Scott",
+      "loyalty_months": 73,
+      "total_scrobbles": 1761
+    },
+    {
+      "artist_id": 8994,
+      "name": "Denzel Curry",
+      "loyalty_months": 71,
+      "total_scrobbles": 1255
+    },
+    {
+      "artist_id": 27674,
+      "name": "Pulp",
+      "loyalty_months": 71,
+      "total_scrobbles": 460
+    },
+    {
+      "artist_id": 4594,
+      "name": "Blur",
+      "loyalty_months": 66,
+      "total_scrobbles": 267
+    },
+    {
+      "artist_id": 7590,
+      "name": "Crystal Castles",
+      "loyalty_months": 65,
+      "total_scrobbles": 479
+    },
+    {
+      "artist_id": 21468,
+      "name": "Madvillain",
+      "loyalty_months": 65,
+      "total_scrobbles": 838
+    },
+    {
+      "artist_id": 12455,
+      "name": "Frank Ocean",
+      "loyalty_months": 64,
+      "total_scrobbles": 1200
+    },
+    {
+      "artist_id": 14024,
+      "name": "Gucci Mane",
+      "loyalty_months": 64,
+      "total_scrobbles": 658
+    },
+    {
+      "artist_id": 550,
+      "name": "A Tribe Called Quest",
+      "loyalty_months": 62,
+      "total_scrobbles": 412
+    },
+    {
+      "artist_id": 35299,
+      "name": "The Velvet Underground",
+      "loyalty_months": 62,
+      "total_scrobbles": 227
+    },
+    {
+      "artist_id": 18217,
+      "name": "Kendrick Lamar",
+      "loyalty_months": 61,
+      "total_scrobbles": 648
+    },
+    {
+      "artist_id": 23412,
+      "name": "Mobb Deep",
+      "loyalty_months": 61,
+      "total_scrobbles": 274
+    },
+    {
+      "artist_id": 32391,
+      "name": "Suede",
+      "loyalty_months": 60,
+      "total_scrobbles": 553
+    },
+    {
+      "artist_id": 560,
+      "name": "A$AP Rocky",
+      "loyalty_months": 59,
+      "total_scrobbles": 254
+    },
+    {
+      "artist_id": 17419,
+      "name": "Joy Division",
+      "loyalty_months": 59,
+      "total_scrobbles": 191
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 40631,
+      "name": "Maher Shalal Hash Baz - Topic",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 18411,
+      "name": "Killing Joke",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 13281,
+      "name": "Ghostpoet",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40633,
+      "name": "The Kaleidoscopes",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40634,
+      "name": "Autistic Daughters",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40637,
+      "name": "Dusty Jazz",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40638,
+      "name": "Epsilon Girls",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40639,
+      "name": "Calypso of House (Paradise Mix)",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40640,
+      "name": "There's Never Been No One Like You",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40641,
+      "name": "Make Me Hot",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40642,
+      "name": "As of Yet",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40643,
+      "name": "Come A Little Closer",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40644,
+      "name": "Can't You See",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40645,
+      "name": "Shinjuku Strut",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40646,
+      "name": "MARIO VIEGAS ( THE MACHINE)",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40647,
+      "name": "Maher Shalal Hash Baz",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 26077,
+      "name": "Paavoharju",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 38383,
+      "name": "Xinlisupreme",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 11724,
+      "name": "Fat Dog",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 29601,
+      "name": "SRSQ",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:20.507467Z"
+}

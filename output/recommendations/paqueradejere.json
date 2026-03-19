@@ -1,0 +1,4401 @@
+{
+  "user": {
+    "id": 8,
+    "username": "paqueradejere",
+    "generated_at": "2026-03-19T14:52:21.142058Z"
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "artist": {
+        "id": 13927,
+        "name": "Grimes",
+        "country": "CA",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "pop",
+          "art pop",
+          "electronic",
+          "electronica"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 1.0,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8989,
+          "explanation": "Lo escuchan 9 amigo(s). Frikomid tiene 1092 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5785,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 69 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.9348,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 1.0,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho dark wave, synth-pop y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Tú y Frikomid compartís gustos similares. Él también escucha mucho dark wave, synth-pop y este artista es uno de sus favoritos. Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 21352,
+        "name": "Miss Anthropocene",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 1092
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 2071
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 69
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 134
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 141
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "artist": {
+        "id": 24015,
+        "name": "Muse",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "art rock",
+          "alternative metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.9768,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 1.0,
+          "explanation": "Lo escuchan 10 amigo(s). Frikomid tiene 942 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.7357,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 183 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.9101,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.9387,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, alternative metal y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "Lo escuchan 10 amigo(s). Frikomid tiene 942 scrobbles y es tu perfil más similar (11% compatibilidad). Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, alternative metal y este artista es uno de sus favoritos.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 36565,
+        "name": "Origin Of Symmetry (New 09 Version)",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 942
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 183
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 266
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 188
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 111
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "artist": {
+        "id": 27106,
+        "name": "Pixies",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "indie rock",
+          "punk rock",
+          "alternative"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.9348,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.9712,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 232 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.7741,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 232 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7909,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5683,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, surf rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8485,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Nubis84 tiene 232 scrobbles y es tu perfil más similar (13% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 41291,
+        "name": "Indie Cindy",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 232
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 366
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 204
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 744
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 596
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "artist": {
+        "id": 20075,
+        "name": "Linkin Park",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "alternative metal",
+          "metal",
+          "nu metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.928,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.9121,
+          "explanation": "Lo escuchan 9 amigo(s). sdecandelario tiene 679 scrobbles y es tu perfil más similar (10% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.646,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 105 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.8411,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.7698,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho rap rock, metal y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8232,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 9 amigo(s). sdecandelario tiene 679 scrobbles y es tu perfil más similar (10% compatibilidad). 9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 30608,
+        "name": "Live in Texas",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "sdecandelario",
+          "scrobbles": 679
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 105
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 589
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 87
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 138
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "artist": {
+        "id": 19343,
+        "name": "Lana Del Rey",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "art pop",
+          "electronic",
+          "dream pop",
+          "neo-psychedelia"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.925,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7954,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 4871 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5204,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 48 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 1.0,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Nubis84, Rocky_stereo…"
+        },
+        "genre_bridge": {
+          "score": 0.8489,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, chamber pop y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 1.0,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Nubis84, Rocky_stereo… El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 29576,
+        "name": "Lust for Life (with The Weeknd)",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 4871
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 5327
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 48
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 71
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 89
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "artist": {
+        "id": 2460,
+        "name": "Arcade Fire",
+        "country": "CA",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "art rock",
+          "indie rock",
+          "synth-pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.9129,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8083,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 1071 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.8384,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 345 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7711,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5211,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho post-punk revival, chamber pop y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 345 scrobbles de este artista.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 3442,
+        "name": "Pink Elephant",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 1071
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 345
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 686
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 87
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 71
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "artist": {
+        "id": 4626,
+        "name": "Bob Dylan",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "pop rock",
+          "country",
+          "jazz",
+          "blues rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8941,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6959,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 528 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.9075,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 528 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6423,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.4324,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho contemporary folk, folk y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7403,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 528 scrobbles de este artista.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 7105,
+        "name": "John Wesley Harding",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 528
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 209
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 81
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 91
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 37
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "artist": {
+        "id": 1531,
+        "name": "Alice in Chains",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "alternative metal",
+          "doom metal",
+          "hard rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8822,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7933,
+          "explanation": "Lo escuchan 9 amigo(s). verygooood tiene 1176 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5237,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 49 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.878,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.8573,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho glam metal, acoustic rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8472,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84… Tú y Lonsonxd compartís gustos similares. Él también escucha mucho glam metal, acoustic rock y este artista es uno de sus favoritos.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 1911,
+        "name": "Nothing Safe - The Best Of The Box",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "verygooood",
+          "scrobbles": 1176
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 930
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 49
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 312
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 79
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "artist": {
+        "id": 35159,
+        "name": "The Strokes",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "indie rock",
+          "new wave",
+          "synth-pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8599,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.9245,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 602 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5392,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 54 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.782,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.6164,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho post-punk revival, indie y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8419,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Frikomid tiene 602 scrobbles y es tu perfil más similar (11% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 54145,
+        "name": "Is This It",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 602
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 720
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 54
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 594
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 277
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "artist": {
+        "id": 24638,
+        "name": "Neutral Milk Hotel",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "indie rock",
+          "lo-fi",
+          "folk",
+          "folk rock",
+          "neo-psychedelia"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8575,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.9164,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 785 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5761,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 68 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7621,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5969,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho elephant 6, folk y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8276,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Frikomid tiene 785 scrobbles y es tu perfil más similar (11% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 37508,
+        "name": "1998-04-03: Mermaid Lounge, New Orleans, LA",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 785
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 68
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 658
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 140
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 272
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "artist": {
+        "id": 35299,
+        "name": "The Velvet Underground",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "pop rock",
+          "art rock",
+          "experimental rock",
+          "psychedelic rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8376,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8875,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 113 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6578,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 113 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7546,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.4451,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho pop rock, art rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.822,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Nubis84 tiene 113 scrobbles y es tu perfil más similar (13% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 54370,
+        "name": "Loaded",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 113
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 1101
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 227
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 76
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 281
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "artist": {
+        "id": 7063,
+        "name": "Coldplay",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "pop",
+          "art pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8343,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8035,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 474 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.89,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 474 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7224,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5836,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho piano rock, art pop y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 474 scrobbles de este artista. Lo escuchan 8 amigo(s). Nubis84 tiene 474 scrobbles y es tu perfil más similar (13% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 10961,
+        "name": "Live 2003",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 474
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 796
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 94
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 197
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 53
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "artist": {
+        "id": 21458,
+        "name": "Madonna",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop rock",
+          "easy listening",
+          "jazz",
+          "pop",
+          "art pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8259,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7194,
+          "explanation": "Lo escuchan 9 amigo(s). Frikomid tiene 467 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5171,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 47 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7342,
+          "explanation": "9 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.923,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho club, female vocalists y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.754,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tú y Frikomid compartís gustos similares. Él también escucha mucho club, female vocalists y este artista es uno de sus favoritos. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 32612,
+        "name": "Like a Prayer",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 467
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 47
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 239
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 284
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 46
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "artist": {
+        "id": 27868,
+        "name": "R.E.M.",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "pop",
+          "folk rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8152,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7097,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 175 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.7285,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 175 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6131,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, Rocky_stereo…"
+        },
+        "genre_bridge": {
+          "score": 0.7468,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho chamber pop, indie y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7195,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tú y Frikomid compartís gustos similares. Él también escucha mucho chamber pop, indie y este artista es uno de sus favoritos. Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 175 scrobbles de este artista.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 42681,
+        "name": "In Time: The Best of R.E.M. 1988-2003",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 175
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 392
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 82
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 60
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 49
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "artist": {
+        "id": 12463,
+        "name": "Frank Zappa",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "big band",
+          "jazz",
+          "art rock",
+          "experimental"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8144,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8779,
+          "explanation": "Lo escuchan 10 amigo(s). Nubis84 tiene 76 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.594,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 76 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7323,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.5208,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho avant-prog, progressive rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.712,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 10 amigo(s). Nubis84 tiene 76 scrobbles y es tu perfil más similar (13% compatibilidad). 10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 19051,
+        "name": "Joe's Garage Acts I, II & III",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 76
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 89
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 359
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 46
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 57
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "artist": {
+        "id": 9885,
+        "name": "Dream Theater",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "metal",
+          "heavy metal",
+          "progressive metal",
+          "progressive"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8138,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.684,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 387 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.8571,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 387 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7695,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, alberto_gu…"
+        },
+        "genre_bridge": {
+          "score": 0.3264,
+          "explanation": "Tú y Nubis84 compartís gustos similares. Él también escucha mucho progressive, progressive metal y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.9067,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 387 scrobbles de este artista.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 15043,
+        "name": "Images and Words",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 387
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 2475
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 203
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 25
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 64
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "artist": {
+        "id": 28338,
+        "name": "Red Hot Chili Peppers",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "funk rock",
+          "alternative"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8136,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.816,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 125 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6741,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 125 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6927,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5164,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho rap rock, funk rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7771,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Nubis84 tiene 125 scrobbles y es tu perfil más similar (13% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 43396,
+        "name": "Out in L.A.",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 125
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 782
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 142
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 75
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 96
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "artist": {
+        "id": 37857,
+        "name": "Weezer",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "indie rock",
+          "emo"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8099,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7553,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 311 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6381,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 100 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6108,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.7737,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, indie y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7173,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, indie y este artista es uno de sus favoritos. Lo escuchan 8 amigo(s). Frikomid tiene 311 scrobbles y es tu perfil más similar (11% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 58290,
+        "name": "1994-09-09: 1st Avenue, Minneapolis, MN, USA",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 311
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 100
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 117
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 71
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 74
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "artist": {
+        "id": 31392,
+        "name": "Soda Stereo",
+        "country": "AR",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "latin",
+          "new wave"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8087,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5703,
+          "explanation": "Lo escuchan 8 amigo(s). verygooood tiene 634 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.6636,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.6222,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho rock argentino, 80s y este artista es uno de sus favoritos."
+        },
+        "trending_group": {
+          "score": 0.8053,
+          "explanation": "GabredMared está obsesionado últimamente: 32 scrobbles en las últimas 4 semanas (×32.0 su media habitual)."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. GabredMared está obsesionado últimamente: 32 scrobbles en las últimas 4 semanas (×32.0 su media habitual).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 47822,
+        "name": "Me Verás Volver (Hits & Más)",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "verygooood",
+          "scrobbles": 634
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 267
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 142
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 47
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 14
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "artist": {
+        "id": 22314,
+        "name": "Mastodon",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative metal",
+          "metal",
+          "hard rock",
+          "heavy metal",
+          "progressive metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.8053,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5995,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 288 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.8091,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 288 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7047,
+          "explanation": "7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5935,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho metal, metalcore y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.853,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 288 scrobbles de este artista.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 33905,
+        "name": "Leviathan [Bonus Tracks]",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 288
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 471
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 1084
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 25
+        },
+        {
+          "username": "BipolarMuzik",
+          "scrobbles": 844
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "artist": {
+        "id": 33147,
+        "name": "Taylor Swift",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop rock",
+          "country",
+          "pop",
+          "synth-pop",
+          "electropop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7989,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7107,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 321 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.4235,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 26 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.8393,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.7458,
+          "explanation": "Tú y GabredMared compartís gustos similares. Él también escucha mucho acoustic, alternative pop y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8836,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. 8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 50716,
+        "name": "Midnights",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 321
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 3068
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 26
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 49
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 61
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "artist": {
+        "id": 21490,
+        "name": "Magdalena Bay",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "electronic",
+          "synth-pop",
+          "dance-pop",
+          "dream pop",
+          "neo-psychedelia"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7988,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.9591,
+          "explanation": "Lo escuchan 10 amigo(s). Frikomid tiene 382 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.4235,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 26 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.8364,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.3965,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, synth-pop y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7722,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 10 amigo(s). Frikomid tiene 382 scrobbles y es tu perfil más similar (11% compatibilidad). 10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 32685,
+        "name": "Imaginal Disk",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 382
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 239
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 370
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 26
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 32
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "artist": {
+        "id": 12258,
+        "name": "Foo Fighters",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "hard rock",
+          "post-grunge",
+          "grunge"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7932,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8054,
+          "explanation": "Lo escuchan 10 amigo(s). Nubis84 tiene 122 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6702,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 122 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.776,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.3689,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho alternative rock, hard rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7369,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 10 amigo(s). Nubis84 tiene 122 scrobbles y es tu perfil más similar (13% compatibilidad). 10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 18702,
+        "name": "In Your Honor",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 122
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 328
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 338
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 45
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 53
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "artist": {
+        "id": 26574,
+        "name": "Pearl Jam",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "experimental rock",
+          "indie rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7883,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.671,
+          "explanation": "Lo escuchan 7 amigo(s). Lonsonxd tiene 1310 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.61,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 84 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.708,
+          "explanation": "7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.662,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho funk rock, alternative rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8556,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. 7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 40408,
+        "name": "Lightning Bolt",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 1310
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 1191
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 84
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 116
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 72
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "artist": {
+        "id": 17496,
+        "name": "Judas Priest",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "metal",
+          "classic rock",
+          "hard rock",
+          "heavy metal",
+          "nwobhm"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7851,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.625,
+          "explanation": "Lo escuchan 7 amigo(s). sdecandelario tiene 2441 scrobbles y es tu perfil más similar (10% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6766,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 127 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7489,
+          "explanation": "7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.415,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho metal, hard rock y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. 7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 26688,
+        "name": "Invincible Shield",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "sdecandelario",
+          "scrobbles": 2441
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 127
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 1172
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 32
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 9
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "artist": {
+        "id": 31702,
+        "name": "Soundgarden",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "alternative metal",
+          "psychedelic rock",
+          "hard rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7801,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7493,
+          "explanation": "Lo escuchan 9 amigo(s). Lonsonxd tiene 1259 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5534,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 59 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7972,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.5044,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho alternative rock, sludge metal y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7948,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd… El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 48344,
+        "name": "King Animal",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 1259
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 59
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 89
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 35
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 117
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "artist": {
+        "id": 23890,
+        "name": "Mr. Bungle",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "art rock",
+          "experimental",
+          "experimental rock",
+          "alternative metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7797,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6678,
+          "explanation": "Lo escuchan 9 amigo(s). Lonsonxd tiene 300 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.7257,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.7701,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho avant-garde metal, zolo y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7489,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho avant-garde metal, zolo y este artista es uno de sus favoritos. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 36374,
+        "name": "Mr. Bungle",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 300
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 64
+        },
+        {
+          "username": "EliasJ72",
+          "scrobbles": 565
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 36
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 54
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "artist": {
+        "id": 3302,
+        "name": "Bad Bunny",
+        "country": "PR",
+        "formed_year": null,
+        "genres": [
+          "latin",
+          "hip hop",
+          "trap latino",
+          "reggaeton"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.777,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.8883,
+          "explanation": "Lo escuchan 9 amigo(s). alberto_gu tiene 937 scrobbles y es tu perfil más similar (9% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.9343,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.4296,
+          "explanation": "Tú y alberto_gu compartís gustos similares. Él también escucha mucho hip hop, latin y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd… Lo escuchan 9 amigo(s). alberto_gu tiene 937 scrobbles y es tu perfil más similar (9% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 4899,
+        "name": "LAS QUE NO IBAN A SALIR",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "alberto_gu",
+          "scrobbles": 937
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 157
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 1434
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 827
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 181
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "artist": {
+        "id": 34678,
+        "name": "The National",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "indie rock",
+          "alternative",
+          "indie"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7722,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6484,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 365 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.8476,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 365 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6291,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, Rocky_stereo…"
+        },
+        "genre_bridge": {
+          "score": 0.4144,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho piano rock, post-punk revival y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7904,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 365 scrobbles de este artista. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 53415,
+        "name": "Juicy Sonic Magic",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 365
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 939
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 146
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 37
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 34
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "artist": {
+        "id": 20371,
+        "name": "Lorde",
+        "country": "NZ",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "pop",
+          "art pop",
+          "electronic",
+          "synth-pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7657,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.786,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 769 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5029,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 43 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.8145,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.7227,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, folk pop y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84… Lo escuchan 8 amigo(s). Frikomid tiene 769 scrobbles y es tu perfil más similar (11% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 31051,
+        "name": "Melodrama",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 769
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 1569
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 527
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 43
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 102
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "artist": {
+        "id": 28035,
+        "name": "Rage Against the Machine",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "alternative metal",
+          "metal",
+          "nu metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7617,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5751,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 122 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6702,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 122 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6004,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.8078,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho rap rock, metal y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7097,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho rap rock, metal y este artista es uno de sus favoritos. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 42953,
+        "name": "Live at the Grand Olympic Auditorium",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 122
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 137
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 397
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 29
+        },
+        {
+          "username": "EliasJ72",
+          "scrobbles": 36
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "artist": {
+        "id": 14071,
+        "name": "Guns N' Roses",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "art rock",
+          "punk rock",
+          "hard rock",
+          "aor"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.757,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7194,
+          "explanation": "Lo escuchan 10 amigo(s). Nubis84 tiene 86 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6138,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 86 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7392,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.4646,
+          "explanation": "Tú y sdecandelario compartís gustos similares. Él también escucha mucho glam metal, aor y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7154,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd… Lo escuchan 10 amigo(s). Nubis84 tiene 86 scrobbles y es tu perfil más similar (13% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 21611,
+        "name": "The Spaghetti Incident?",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 86
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 340
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 158
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 105
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 56
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "artist": {
+        "id": 20551,
+        "name": "Los Jaivas",
+        "country": "CL",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "progressive rock",
+          "folk",
+          "folk rock",
+          "progressive folk"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7561,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5881,
+          "explanation": "Lo escuchan 7 amigo(s). GabredMared tiene 3053 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.7381,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5709,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho folk, chile y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. 7 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 31337,
+        "name": "Los Jaivas",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "GabredMared",
+          "scrobbles": 3053
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 114
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 253
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 20
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 45
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "artist": {
+        "id": 911,
+        "name": "Addison Rae",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "dance-pop",
+          "r&b",
+          "teen pop",
+          "trip hop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7553,
+      "confidence": "high",
+      "category": "adventurous",
+      "engines": {
+        "country_affinity": {
+          "score": 0.682,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 960,
+        "name": "Addison",
+        "year": 2025,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 35,
+      "artist": {
+        "id": 25374,
+        "name": "Oasis",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "indie rock",
+          "post-britpop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7542,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7141,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 256 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6002,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 79 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6515,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.8338,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, acoustic rock y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, acoustic rock y este artista es uno de sus favoritos. Lo escuchan 8 amigo(s). Frikomid tiene 256 scrobbles y es tu perfil más similar (11% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 38573,
+        "name": "Standing on the Shoulder of Giants",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 256
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 317
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 79
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 288
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 58
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "artist": {
+        "id": 4594,
+        "name": "Blur",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "art rock",
+          "experimental rock",
+          "indie rock",
+          "noise rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7499,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7991,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 157 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.583,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 71 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6766,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.6678,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho madchester, slacker rock y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Frikomid tiene 157 scrobbles y es tu perfil más similar (11% compatibilidad). 8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 7018,
+        "name": "Leisure",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 157
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 71
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 267
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 424
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 88
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "artist": {
+        "id": 5168,
+        "name": "Bruce Springsteen",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "pop rock",
+          "rock and roll",
+          "heartland rock",
+          "folk"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7472,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5951,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 299 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5853,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 72 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.5659,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.3733,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho contemporary folk, folk y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.6844,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 7942,
+        "name": "The Essential Bruce Springsteen",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 299
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 72
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 142
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 35
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 23
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "artist": {
+        "id": 12048,
+        "name": "Fishmans",
+        "country": "JP",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "electronic",
+          "dream pop",
+          "dub",
+          "japanese"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7414,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.824,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 107 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.649,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 107 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7451,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Nubis84 tiene 107 scrobbles y es tu perfil más similar (13% compatibilidad). 8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 18266,
+        "name": "King Master George",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 107
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 175
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 1042
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 326
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 119
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "artist": {
+        "id": 15223,
+        "name": "Hundred Waters",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "electronic",
+          "electronica",
+          "indie rock",
+          "indie pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7329,
+      "confidence": "high",
+      "category": "adventurous",
+      "engines": {
+        "anti_bubble": {
+          "score": 0.9963,
+          "explanation": "Solo Frikomid escucha este artista en todo el grupo. Encaja con tu gusto: indie, electronica, electronic."
+        },
+        "country_affinity": {
+          "score": 0.6678,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Solo Frikomid escucha este artista en todo el grupo. Encaja con tu gusto: indie, electronica, electronic. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 23335,
+        "name": "The Moon Rang Like a Bell",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 40,
+      "artist": {
+        "id": 5294,
+        "name": "Burial",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "electronic",
+          "ambient",
+          "dub",
+          "dubstep",
+          "uk garage"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7324,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7887,
+          "explanation": "Lo escuchan 9 amigo(s). Nubis84 tiene 146 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6992,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 146 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7016,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        }
+      },
+      "explanation_short": "Lo escuchan 9 amigo(s). Nubis84 tiene 146 scrobbles y es tu perfil más similar (13% compatibilidad). 9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 8153,
+        "name": "Tunes 2011 to 2019",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 146
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 325
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 199
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 35
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 130
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "artist": {
+        "id": 21762,
+        "name": "Manic Street Preachers",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "post-britpop",
+          "post-punk"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7319,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.4592,
+          "explanation": "Lo escuchan 6 amigo(s). Nubis84 tiene 91 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6229,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 91 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.4006,
+          "explanation": "6 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, alberto_gu…"
+        },
+        "genre_bridge": {
+          "score": 0.8776,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, post-punk y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, post-punk y este artista es uno de sus favoritos.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 33039,
+        "name": "Journal for Plague Lovers",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 91
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 81
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 209
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 25
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 15
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "artist": {
+        "id": 24748,
+        "name": "Nick Drake",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "folk",
+          "folk rock",
+          "folk pop",
+          "indie",
+          "singer-songwriter"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7288,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7393,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 137 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6889,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 137 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.7281,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.5383,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho chamber folk, contemporary folk y este artista es uno de sus favoritos."
+        },
+        "trending_group": {
+          "score": 0.1945,
+          "explanation": "verygooood está obsesionado últimamente: 22 scrobbles en las últimas 4 semanas (×2.9 su media habitual)."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Nubis84 tiene 137 scrobbles y es tu perfil más similar (13% compatibilidad). 8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 37639,
+        "name": "Pink Moon",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 137
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 1277
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 112
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 134
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 15
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "artist": {
+        "id": 31228,
+        "name": "Slint",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "indie rock",
+          "post-hardcore",
+          "post-rock",
+          "math rock",
+          "indie"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7235,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7703,
+          "explanation": "Lo escuchan 9 amigo(s). Nubis84 tiene 60 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5561,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 60 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6318,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "country_affinity": {
+          "score": 0.6876,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Lo escuchan 9 amigo(s). Nubis84 tiene 60 scrobbles y es tu perfil más similar (13% compatibilidad). El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 47564,
+        "name": "Spiderland",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 60
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 88
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 224
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 91
+        },
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 65
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "artist": {
+        "id": 26210,
+        "name": "Pantera",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "groove metal",
+          "metal",
+          "heavy metal",
+          "power metal",
+          "thrash metal"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7208,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6397,
+          "explanation": "Lo escuchan 7 amigo(s). Lonsonxd tiene 1357 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5761,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 68 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6917,
+          "explanation": "7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.4536,
+          "explanation": "Tú y Lonsonxd compartís gustos similares. Él también escucha mucho glam metal, metal y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8422,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. 7 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 39816,
+        "name": "Official Live : 101 Proof",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 1357
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 68
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 214
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 70
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 13
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "artist": {
+        "id": 23446,
+        "name": "Modest Mouse",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "art rock",
+          "indie rock",
+          "post-hardcore"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7171,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6961,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 930 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5981,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 78 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.677,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.3694,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho indie, post-hardcore y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7659,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. Lo escuchan 8 amigo(s). Frikomid tiene 930 scrobbles y es tu perfil más similar (11% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 35631,
+        "name": "Lonesome Crowded West",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 930
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 78
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 63
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 84
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 32
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "artist": {
+        "id": 12429,
+        "name": "Franco Battiato",
+        "country": "IT",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "pop rock",
+          "pop",
+          "experimental",
+          "experimental rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7168,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.4714,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 60 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5561,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 60 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.4605,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.3526,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho opera, pop rock y este artista es uno de sus favoritos."
+        },
+        "trending_group": {
+          "score": 1.0,
+          "explanation": "GabredMared está obsesionado últimamente: 64 scrobbles en las últimas 4 semanas (×64.0 su media habitual)."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "GabredMared está obsesionado últimamente: 64 scrobbles en las últimas 4 semanas (×64.0 su media habitual). Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 18937,
+        "name": "L'Arca Di Noè",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 60
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 67
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 187
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 98
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 7
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "artist": {
+        "id": 21064,
+        "name": "Lupita D'Alessio",
+        "country": "MX",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "all",
+          "latin pop",
+          "female vocalists",
+          "latin ballad"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7161,
+      "confidence": "high",
+      "category": "adventurous",
+      "engines": {
+        "anti_bubble": {
+          "score": 0.612,
+          "explanation": "Solo GabredMared escucha este artista en todo el grupo. Encaja con tu gusto: female vocalists, pop."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. Solo GabredMared escucha este artista en todo el grupo. Encaja con tu gusto: female vocalists, pop.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 32040,
+        "name": "Mentiras",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 48,
+      "artist": {
+        "id": 41080,
+        "name": "Radiohead",
+        "country": null,
+        "formed_year": null,
+        "genres": [],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.715,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6243,
+          "explanation": "Lo escuchan 10 amigo(s). verygooood tiene 739 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.7918,
+          "explanation": "10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "trending_group": {
+          "score": 0.8303,
+          "explanation": "GabredMared está obsesionado últimamente: 8 scrobbles en las últimas 4 semanas (×8.0 su media habitual)."
+        }
+      },
+      "explanation_short": "GabredMared está obsesionado últimamente: 8 scrobbles en las últimas 4 semanas (×8.0 su media habitual). 10 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": null,
+      "friends_who_listen": [
+        {
+          "username": "verygooood",
+          "scrobbles": 739
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 28
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 78
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 19
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 5
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "artist": {
+        "id": 13725,
+        "name": "Gossip",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop rock",
+          "indie rock",
+          "post-punk",
+          "garage rock",
+          "garage punk"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7146,
+      "confidence": "high",
+      "category": "adventurous",
+      "engines": {
+        "country_affinity": {
+          "score": 0.5646,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 21003,
+        "name": "Music For Men",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 50,
+      "artist": {
+        "id": 27674,
+        "name": "Pulp",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "art rock",
+          "indie rock",
+          "post-punk"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7059,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.7978,
+          "explanation": "Lo escuchan 8 amigo(s). Frikomid tiene 152 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.4657,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 34 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6687,
+          "explanation": "8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…"
+        },
+        "genre_bridge": {
+          "score": 0.6327,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho chamber pop, indie y este artista es uno de sus favoritos."
+        }
+      },
+      "explanation_short": "Lo escuchan 8 amigo(s). Frikomid tiene 152 scrobbles y es tu perfil más similar (11% compatibilidad). 8 de 11 del grupo lo escuchan: Frikomid, GabredMared, Lonsonxd, Nubis84…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 42363,
+        "name": "Intro: The Gift Recordings",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 152
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 460
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 298
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 34
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 79
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "artist": {
+        "id": 522,
+        "name": "A Perfect Circle",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "art rock",
+          "progressive rock"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7045,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5214,
+          "explanation": "Lo escuchan 6 amigo(s). Nubis84 tiene 293 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.8119,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 293 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.555,
+          "explanation": "6 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, sdecandelario…"
+        },
+        "country_affinity": {
+          "score": 0.8,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 293 scrobbles de este artista. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 430,
+        "name": "Mer De Noms - Live",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 293
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 819
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 119
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 35
+        },
+        {
+          "username": "BipolarMuzik",
+          "scrobbles": 405
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "artist": {
+        "id": 10773,
+        "name": "Elliott Smith",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "indie rock",
+          "folk rock",
+          "acoustic rock",
+          "indie pop",
+          "singer-songwriter"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.7019,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.688,
+          "explanation": "Lo escuchan 8 amigo(s). Nubis84 tiene 59 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5534,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 59 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6463,
+          "explanation": "8 de 11 del grupo lo escuchan: EliasJ72, Frikomid, Lonsonxd, Nubis84…"
+        },
+        "country_affinity": {
+          "score": 0.7432,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. Lo escuchan 8 amigo(s). Nubis84 tiene 59 scrobbles y es tu perfil más similar (13% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 16295,
+        "name": "New Moon",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 59
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 664
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 79
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 109
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 19
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "artist": {
+        "id": 23415,
+        "name": "Moby",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "rock",
+          "pop rock",
+          "pop",
+          "electronic",
+          "electronica"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6966,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.658,
+          "explanation": "Lo escuchan 7 amigo(s). Frikomid tiene 1448 scrobbles y es tu perfil más similar (11% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5639,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 63 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.6605,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, Nubis84, Rocky_stereo, alberto_gu…"
+        },
+        "genre_bridge": {
+          "score": 0.3699,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho pop, pop rock y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.8163,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. 7 de 11 del grupo lo escuchan: Frikomid, Nubis84, Rocky_stereo, alberto_gu…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 35530,
+        "name": "Innocents",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 1448
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 241
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 63
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 98
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 62
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "artist": {
+        "id": 38088,
+        "name": "Willie Colón",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "jazz",
+          "latin",
+          "salsa",
+          "bolero",
+          "fania"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6952,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.6448,
+          "explanation": "Lo escuchan 9 amigo(s). Rocky_stereo tiene 657 scrobbles y es tu perfil más similar (8% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.7624,
+          "explanation": "9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…"
+        },
+        "genre_bridge": {
+          "score": 0.4849,
+          "explanation": "Tú y Rocky_stereo compartís gustos similares. Él también escucha mucho fania, salsa y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7723,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "trending_group": {
+          "score": 0.2425,
+          "explanation": "GabredMared está obsesionado últimamente: 69 scrobbles en las últimas 4 semanas (×10.4 su media habitual)."
+        }
+      },
+      "explanation_short": "El 42% de tus escuchas son de artistas de US. Este también es de allí. 9 de 11 del grupo lo escuchan: EliasJ72, Frikomid, GabredMared, Lonsonxd…",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 58680,
+        "name": "La Gran Fuga",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Rocky_stereo",
+          "scrobbles": 657
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 512
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 14
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 43
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 35
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "artist": {
+        "id": 3461,
+        "name": "Barbra Streisand",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "easy listening",
+          "pop",
+          "soft rock",
+          "disco",
+          "ballad"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6952,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "anti_bubble": {
+          "score": 0.4185,
+          "explanation": "Solo GabredMared escucha este artista en todo el grupo. Encaja con tu gusto: pop."
+        },
+        "country_affinity": {
+          "score": 0.5813,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 5149,
+        "name": "The Essential Barbra Streisand",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 56,
+      "artist": {
+        "id": 17191,
+        "name": "Jon Bellion",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "electronic",
+          "experimental",
+          "hip hop",
+          "hip-hop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6945,
+      "confidence": "high",
+      "category": "adventurous",
+      "engines": {
+        "anti_bubble": {
+          "score": 0.8977,
+          "explanation": "Solo GabredMared escucha este artista en todo el grupo. Encaja con tu gusto: hip hop, electronic, experimental."
+        },
+        "country_affinity": {
+          "score": 0.6885,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        }
+      },
+      "explanation_short": "Solo GabredMared escucha este artista en todo el grupo. Encaja con tu gusto: hip hop, electronic, experimental. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 26300,
+        "name": "The Definition",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": []
+    },
+    {
+      "rank": 57,
+      "artist": {
+        "id": 12342,
+        "name": "Foster the People",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "pop",
+          "indie rock",
+          "dance-pop",
+          "alternative",
+          "indie pop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6887,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5243,
+          "explanation": "Lo escuchan 7 amigo(s). sdecandelario tiene 167 scrobbles y es tu perfil más similar (10% compatibilidad)."
+        },
+        "group_consensus": {
+          "score": 0.4972,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, GabredMared, Nubis84, Rocky_stereo…"
+        },
+        "country_affinity": {
+          "score": 0.6802,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 18803,
+        "name": "Sacred Hearts Club",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "sdecandelario",
+          "scrobbles": 167
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 275
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 45
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 38
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 8
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "artist": {
+        "id": 36653,
+        "name": "U2",
+        "country": "IE",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "pop rock",
+          "pop",
+          "electronic"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6884,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5823,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 111 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.6549,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 111 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.5394,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, Rocky_stereo…"
+        },
+        "genre_bridge": {
+          "score": 0.6105,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative, irish y este artista es uno de sus favoritos."
+        },
+        "trending_group": {
+          "score": 0.559,
+          "explanation": "sdecandelario está obsesionado últimamente: 13 scrobbles en las últimas 4 semanas (×13.0 su media habitual)."
+        }
+      },
+      "explanation_short": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 111 scrobbles de este artista. Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative, irish y este artista es uno de sus favoritos.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 56447,
+        "name": "October",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 111
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 186
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 272
+        },
+        {
+          "username": "Lonsonxd",
+          "scrobbles": 189
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 7
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "artist": {
+        "id": 14295,
+        "name": "Halsey",
+        "country": "US",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "pop rock",
+          "pop",
+          "synth-pop",
+          "electropop"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6865,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "group_consensus": {
+          "score": 0.4003,
+          "explanation": "5 de 11 del grupo lo escuchan: Frikomid, GabredMared, Nubis84, alberto_gu…"
+        },
+        "genre_bridge": {
+          "score": 0.5281,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho alternative pop, female vocalists y este artista es uno de sus favoritos."
+        },
+        "country_affinity": {
+          "score": 0.7238,
+          "explanation": "El 42% de tus escuchas son de artistas de US. Este también es de allí."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. El 42% de tus escuchas son de artistas de US. Este también es de allí.",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 21940,
+        "name": "If I Can’t Have Love, I Want Power",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Frikomid",
+          "scrobbles": 266
+        },
+        {
+          "username": "GabredMared",
+          "scrobbles": 535
+        },
+        {
+          "username": "Nubis84",
+          "scrobbles": 1
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 26
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 4
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "artist": {
+        "id": 35149,
+        "name": "The Stone Roses",
+        "country": "GB",
+        "formed_year": null,
+        "genres": [
+          "alternative rock",
+          "rock",
+          "indie rock",
+          "alternative dance",
+          "neo-psychedelia"
+        ],
+        "cover_url": null,
+        "spotify_url": null,
+        "youtube_url": null,
+        "lastfm_url": null,
+        "bandcamp_url": null,
+        "rym_url": null
+      },
+      "final_score": 0.6825,
+      "confidence": "high",
+      "category": "high_confidence",
+      "engines": {
+        "collab_direct": {
+          "score": 0.5812,
+          "explanation": "Lo escuchan 7 amigo(s). Nubis84 tiene 49 scrobbles y es tu perfil más similar (13% compatibilidad)."
+        },
+        "musical_twin": {
+          "score": 0.5237,
+          "explanation": "Tu gemelo musical es Nubis84 (13% compatibilidad). Tiene 49 scrobbles de este artista."
+        },
+        "group_consensus": {
+          "score": 0.5222,
+          "explanation": "7 de 11 del grupo lo escuchan: Frikomid, Lonsonxd, Nubis84, Rocky_stereo…"
+        },
+        "genre_bridge": {
+          "score": 0.4215,
+          "explanation": "Tú y Frikomid compartís gustos similares. Él también escucha mucho madchester, indie y este artista es uno de sus favoritos."
+        },
+        "label_curator": {
+          "score": 1.0,
+          "explanation": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello."
+        }
+      },
+      "explanation_short": "Escuchas 44 artista(s) del sello Columbia. Este es otro artista del mismo sello. Lo escuchan 7 amigo(s). Nubis84 tiene 49 scrobbles y es tu perfil más similar (13% compatibilidad).",
+      "explanation_full": null,
+      "recommended_album": {
+        "id": 54113,
+        "name": "Second Coming",
+        "year": null,
+        "reason": "El álbum mejor valorado"
+      },
+      "friends_who_listen": [
+        {
+          "username": "Nubis84",
+          "scrobbles": 49
+        },
+        {
+          "username": "alberto_gu",
+          "scrobbles": 227
+        },
+        {
+          "username": "verygooood",
+          "scrobbles": 299
+        },
+        {
+          "username": "Frikomid",
+          "scrobbles": 48
+        },
+        {
+          "username": "sdecandelario",
+          "scrobbles": 40
+        }
+      ]
+    }
+  ],
+  "engine_stats": {
+    "collab_direct": {
+      "candidates": 20536,
+      "active": true
+    },
+    "musical_twin": {
+      "candidates": 5596,
+      "active": true
+    },
+    "anti_bubble": {
+      "candidates": 5246,
+      "active": true
+    },
+    "group_consensus": {
+      "candidates": 761,
+      "active": true
+    },
+    "genre_bridge": {
+      "candidates": 11832,
+      "active": true
+    },
+    "country_affinity": {
+      "candidates": 8067,
+      "active": true
+    },
+    "trending_group": {
+      "candidates": 1017,
+      "active": true
+    },
+    "deep_discography": {
+      "candidates": 49,
+      "active": true
+    },
+    "label_curator": {
+      "candidates": 279,
+      "active": true
+    },
+    "decade_explorer": {
+      "candidates": 0,
+      "active": false,
+      "reason": "Sin datos o no implementado"
+    },
+    "shared_producers": {
+      "candidates": 0,
+      "active": false,
+      "reason": "Sin datos o no implementado"
+    },
+    "rating_curator": {
+      "candidates": 0,
+      "active": false,
+      "reason": "Sin datos o no implementado"
+    }
+  }
+}

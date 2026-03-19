@@ -1,0 +1,733 @@
+{
+  "generated_at": "2026-03-19T14:52:23.715614Z",
+  "engine_stats": {
+    "EliasJ72": {
+      "collab_direct": {
+        "candidates": 21625,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 2134,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5484,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 966,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 10365,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 7861,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 1059,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 37,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1170,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "Frikomid": {
+      "collab_direct": {
+        "candidates": 19246,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 4987,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 4841,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 384,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 7323,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 8063,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 840,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 50,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1245,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "GabredMared": {
+      "collab_direct": {
+        "candidates": 21360,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 3046,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5353,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 766,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 10087,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 8956,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 963,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 47,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1914,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "Lonsonxd": {
+      "collab_direct": {
+        "candidates": 20070,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 5301,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5396,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 660,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 9881,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 8274,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 812,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 50,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1172,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "Nubis84": {
+      "collab_direct": {
+        "candidates": 18548,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 3614,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5508,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 329,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 9502,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 6624,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 896,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 50,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1294,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "Rocky_stereo": {
+      "collab_direct": {
+        "candidates": 21063,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 3076,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5723,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 762,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 12341,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 7519,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 904,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 49,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1439,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "alberto_gu": {
+      "collab_direct": {
+        "candidates": 19954,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 1892,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5490,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 668,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 10848,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 7529,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 941,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 48,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 243,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "paqueradejere": {
+      "collab_direct": {
+        "candidates": 20536,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 5596,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5246,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 761,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 11832,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 8067,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 1017,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 49,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 279,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "sdecandelario": {
+      "collab_direct": {
+        "candidates": 16433,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 4768,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 4008,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 369,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 5216,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 7356,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 749,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 48,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 786,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "BipolarMuzik": {
+      "collab_direct": {
+        "candidates": 21897,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 3632,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5376,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 1096,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 5278,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 8326,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 1134,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 40,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 504,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    },
+    "verygooood": {
+      "collab_direct": {
+        "candidates": 20004,
+        "active": true
+      },
+      "musical_twin": {
+        "candidates": 1887,
+        "active": true
+      },
+      "anti_bubble": {
+        "candidates": 5990,
+        "active": true
+      },
+      "group_consensus": {
+        "candidates": 623,
+        "active": true
+      },
+      "genre_bridge": {
+        "candidates": 10274,
+        "active": true
+      },
+      "country_affinity": {
+        "candidates": 7091,
+        "active": true
+      },
+      "trending_group": {
+        "candidates": 963,
+        "active": true
+      },
+      "deep_discography": {
+        "candidates": 40,
+        "active": true
+      },
+      "label_curator": {
+        "candidates": 1533,
+        "active": true
+      },
+      "decade_explorer": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "shared_producers": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      },
+      "rating_curator": {
+        "candidates": 0,
+        "active": false,
+        "reason": "Sin datos o no implementado"
+      }
+    }
+  },
+  "user_similarity": {
+    "EliasJ72": {
+      "EliasJ72": 1.0,
+      "Rocky_stereo": 0.08606462630407938,
+      "GabredMared": 0.0823698638100542,
+      "alberto_gu": 0.07978973043810236,
+      "verygooood": 0.07150622209242752,
+      "Frikomid": 0.06899747917676521,
+      "Nubis84": 0.06560021033267434,
+      "paqueradejere": 0.06384985755396753,
+      "Lonsonxd": 0.05707427574217604,
+      "sdecandelario": 0.04740634523255878,
+      "BipolarMuzik": 0.03398085279554385
+    },
+    "Frikomid": {
+      "Frikomid": 1.0,
+      "Nubis84": 0.18327053248796962,
+      "sdecandelario": 0.17047652473893612,
+      "GabredMared": 0.12991051419096128,
+      "alberto_gu": 0.11640176703474242,
+      "verygooood": 0.11530762776620385,
+      "paqueradejere": 0.11083545808518155,
+      "Lonsonxd": 0.10341766826870266,
+      "Rocky_stereo": 0.09277673027640271,
+      "EliasJ72": 0.06899747917676521,
+      "BipolarMuzik": 0.035507651570753716
+    },
+    "GabredMared": {
+      "GabredMared": 1.0,
+      "verygooood": 0.13312453047489797,
+      "alberto_gu": 0.13067032661575026,
+      "Frikomid": 0.12991051419096128,
+      "Rocky_stereo": 0.12315259892049578,
+      "Nubis84": 0.10912961522121895,
+      "EliasJ72": 0.0823698638100542,
+      "Lonsonxd": 0.07956011989685369,
+      "paqueradejere": 0.07603404208687324,
+      "sdecandelario": 0.056840968693491964,
+      "BipolarMuzik": 0.031849246717405064
+    },
+    "Lonsonxd": {
+      "Lonsonxd": 1.0,
+      "Nubis84": 0.17055022756338487,
+      "sdecandelario": 0.1565032848218322,
+      "Rocky_stereo": 0.110541956954146,
+      "Frikomid": 0.10341766826870266,
+      "verygooood": 0.09915429749561992,
+      "paqueradejere": 0.08207535912715073,
+      "alberto_gu": 0.08090956221887637,
+      "GabredMared": 0.07956011989685369,
+      "BipolarMuzik": 0.06504623536797514,
+      "EliasJ72": 0.05707427574217604
+    },
+    "Nubis84": {
+      "Nubis84": 1.0,
+      "Frikomid": 0.18327053248796962,
+      "sdecandelario": 0.17689214049410096,
+      "Lonsonxd": 0.17055022756338487,
+      "paqueradejere": 0.1311834198906493,
+      "alberto_gu": 0.13100737564903603,
+      "verygooood": 0.12179830939324914,
+      "Rocky_stereo": 0.10973776487343598,
+      "GabredMared": 0.10912961522121895,
+      "EliasJ72": 0.06560021033267434,
+      "BipolarMuzik": 0.05808338256676919
+    },
+    "Rocky_stereo": {
+      "Rocky_stereo": 1.0,
+      "alberto_gu": 0.13707227634808455,
+      "verygooood": 0.1361084982925078,
+      "GabredMared": 0.12315259892049578,
+      "Lonsonxd": 0.110541956954146,
+      "Nubis84": 0.10973776487343598,
+      "Frikomid": 0.09277673027640271,
+      "EliasJ72": 0.08606462630407938,
+      "paqueradejere": 0.0786480924540576,
+      "sdecandelario": 0.07034520584191908,
+      "BipolarMuzik": 0.02810028302844278
+    },
+    "alberto_gu": {
+      "alberto_gu": 1.0,
+      "Rocky_stereo": 0.13707227634808455,
+      "verygooood": 0.13313901470303985,
+      "Nubis84": 0.13100737564903603,
+      "GabredMared": 0.13067032661575026,
+      "Frikomid": 0.11640176703474242,
+      "sdecandelario": 0.09416523498768149,
+      "paqueradejere": 0.08917586984609968,
+      "Lonsonxd": 0.08090956221887637,
+      "EliasJ72": 0.07978973043810236,
+      "BipolarMuzik": 0.03353092151788507
+    },
+    "paqueradejere": {
+      "paqueradejere": 1.0,
+      "Nubis84": 0.1311834198906493,
+      "Frikomid": 0.11083545808518155,
+      "sdecandelario": 0.10040736138474449,
+      "alberto_gu": 0.08917586984609968,
+      "verygooood": 0.0822793350140197,
+      "Lonsonxd": 0.08207535912715073,
+      "Rocky_stereo": 0.0786480924540576,
+      "GabredMared": 0.07603404208687324,
+      "EliasJ72": 0.06384985755396753,
+      "BipolarMuzik": 0.0372925075214035
+    },
+    "sdecandelario": {
+      "sdecandelario": 1.0,
+      "Nubis84": 0.17689214049410096,
+      "Frikomid": 0.17047652473893612,
+      "Lonsonxd": 0.1565032848218322,
+      "paqueradejere": 0.10040736138474449,
+      "alberto_gu": 0.09416523498768149,
+      "verygooood": 0.08882845685391831,
+      "Rocky_stereo": 0.07034520584191908,
+      "GabredMared": 0.056840968693491964,
+      "EliasJ72": 0.04740634523255878,
+      "BipolarMuzik": 0.03353442976274702
+    },
+    "BipolarMuzik": {
+      "BipolarMuzik": 1.0,
+      "Lonsonxd": 0.06504623536797514,
+      "Nubis84": 0.05808338256676919,
+      "verygooood": 0.03896393280204924,
+      "paqueradejere": 0.0372925075214035,
+      "Frikomid": 0.035507651570753716,
+      "EliasJ72": 0.03398085279554385,
+      "sdecandelario": 0.03353442976274702,
+      "alberto_gu": 0.03353092151788507,
+      "GabredMared": 0.031849246717405064,
+      "Rocky_stereo": 0.02810028302844278
+    },
+    "verygooood": {
+      "verygooood": 1.0,
+      "Rocky_stereo": 0.1361084982925078,
+      "alberto_gu": 0.13313901470303985,
+      "GabredMared": 0.13312453047489797,
+      "Nubis84": 0.12179830939324914,
+      "Frikomid": 0.11530762776620385,
+      "Lonsonxd": 0.09915429749561992,
+      "sdecandelario": 0.08882845685391831,
+      "paqueradejere": 0.0822793350140197,
+      "EliasJ72": 0.07150622209242752,
+      "BipolarMuzik": 0.03896393280204924
+    }
+  }
+}

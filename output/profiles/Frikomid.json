@@ -1,0 +1,511 @@
+{
+  "username": "Frikomid",
+  "total_scrobbles": 210817,
+  "unique_artists": 4433,
+  "unique_albums": 9892,
+  "first_scrobble": "2013-10-01",
+  "diversity_index": 0.81,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "electronic",
+      "weight": 0.0418,
+      "score": 71794
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0404,
+      "score": 69457
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0357,
+      "score": 61387
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0332,
+      "score": 57042
+    },
+    {
+      "genre": "rock",
+      "weight": 0.032,
+      "score": 55063
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0264,
+      "score": 45419
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0256,
+      "score": 43966
+    },
+    {
+      "genre": "indie pop",
+      "weight": 0.0256,
+      "score": 43918
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0212,
+      "score": 36367
+    },
+    {
+      "genre": "art pop",
+      "weight": 0.0207,
+      "score": 35536
+    },
+    {
+      "genre": "singer-songwriter",
+      "weight": 0.0205,
+      "score": 35158
+    },
+    {
+      "genre": "dream pop",
+      "weight": 0.0195,
+      "score": 33475
+    },
+    {
+      "genre": "synth-pop",
+      "weight": 0.0186,
+      "score": 31973
+    },
+    {
+      "genre": "female vocalists",
+      "weight": 0.0185,
+      "score": 31702
+    },
+    {
+      "genre": "electropop",
+      "weight": 0.0151,
+      "score": 25884
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0136,
+      "score": 23371
+    },
+    {
+      "genre": "electronica",
+      "weight": 0.0133,
+      "score": 22887
+    },
+    {
+      "genre": "ambient",
+      "weight": 0.0128,
+      "score": 22004
+    },
+    {
+      "genre": "folk",
+      "weight": 0.0125,
+      "score": 21411
+    },
+    {
+      "genre": "neo-psychedelia",
+      "weight": 0.012,
+      "score": 20596
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.6125
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1974
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0955
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0646
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0181
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0068
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0042
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0009
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.431
+    },
+    {
+      "country": "GB",
+      "weight": 0.2705
+    },
+    {
+      "country": "ES",
+      "weight": 0.0722
+    },
+    {
+      "country": "CA",
+      "weight": 0.06
+    },
+    {
+      "country": "SE",
+      "weight": 0.0555
+    },
+    {
+      "country": "FR",
+      "weight": 0.0448
+    },
+    {
+      "country": "AU",
+      "weight": 0.0202
+    },
+    {
+      "country": "NO",
+      "weight": 0.0198
+    },
+    {
+      "country": "DE",
+      "weight": 0.0144
+    },
+    {
+      "country": "NZ",
+      "weight": 0.0116
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 222,
+      "scrobbles": 3115
+    },
+    {
+      "label": "Columbia",
+      "artists": 105,
+      "scrobbles": 3569
+    },
+    {
+      "label": "Polydor",
+      "artists": 58,
+      "scrobbles": 2688
+    },
+    {
+      "label": "Domino",
+      "artists": 55,
+      "scrobbles": 5195
+    },
+    {
+      "label": "Island",
+      "artists": 55,
+      "scrobbles": 2313
+    },
+    {
+      "label": "4AD",
+      "artists": 52,
+      "scrobbles": 5408
+    },
+    {
+      "label": "RCA",
+      "artists": 52,
+      "scrobbles": 1810
+    },
+    {
+      "label": "Atlantic",
+      "artists": 50,
+      "scrobbles": 1605
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 42,
+      "scrobbles": 3880
+    },
+    {
+      "label": "Sony Music",
+      "artists": 42,
+      "scrobbles": 1008
+    },
+    {
+      "label": "Virgin",
+      "artists": 41,
+      "scrobbles": 1990
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 38,
+      "scrobbles": 1484
+    },
+    {
+      "label": "EMI",
+      "artists": 38,
+      "scrobbles": 611
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 37,
+      "scrobbles": 2535
+    },
+    {
+      "label": "Warp",
+      "artists": 31,
+      "scrobbles": 2631
+    }
+  ],
+  "musical_twin": "Nubis84",
+  "twin_similarity": 0.183,
+  "core_artists": [
+    {
+      "artist_id": 19343,
+      "name": "Lana Del Rey",
+      "loyalty_months": 148,
+      "total_scrobbles": 4871
+    },
+    {
+      "artist_id": 29455,
+      "name": "Röyksopp",
+      "loyalty_months": 144,
+      "total_scrobbles": 2037
+    },
+    {
+      "artist_id": 23465,
+      "name": "Mogwai",
+      "loyalty_months": 136,
+      "total_scrobbles": 2914
+    },
+    {
+      "artist_id": 23415,
+      "name": "Moby",
+      "loyalty_months": 133,
+      "total_scrobbles": 1448
+    },
+    {
+      "artist_id": 31253,
+      "name": "Slowdive",
+      "loyalty_months": 133,
+      "total_scrobbles": 1594
+    },
+    {
+      "artist_id": 34450,
+      "name": "The Knife",
+      "loyalty_months": 133,
+      "total_scrobbles": 1245
+    },
+    {
+      "artist_id": 38022,
+      "name": "Wilco",
+      "loyalty_months": 126,
+      "total_scrobbles": 931
+    },
+    {
+      "artist_id": 2459,
+      "name": "Arca",
+      "loyalty_months": 125,
+      "total_scrobbles": 1692
+    },
+    {
+      "artist_id": 8479,
+      "name": "David Bowie",
+      "loyalty_months": 124,
+      "total_scrobbles": 1562
+    },
+    {
+      "artist_id": 27114,
+      "name": "Placebo",
+      "loyalty_months": 124,
+      "total_scrobbles": 1452
+    },
+    {
+      "artist_id": 15809,
+      "name": "Interpol",
+      "loyalty_months": 123,
+      "total_scrobbles": 2137
+    },
+    {
+      "artist_id": 2969,
+      "name": "Austra",
+      "loyalty_months": 122,
+      "total_scrobbles": 1434
+    },
+    {
+      "artist_id": 38025,
+      "name": "Wild Beasts",
+      "loyalty_months": 121,
+      "total_scrobbles": 1263
+    },
+    {
+      "artist_id": 27356,
+      "name": "Portishead",
+      "loyalty_months": 116,
+      "total_scrobbles": 767
+    },
+    {
+      "artist_id": 13944,
+      "name": "Grizzly Bear",
+      "loyalty_months": 115,
+      "total_scrobbles": 1115
+    },
+    {
+      "artist_id": 34678,
+      "name": "The National",
+      "loyalty_months": 113,
+      "total_scrobbles": 939
+    },
+    {
+      "artist_id": 38519,
+      "name": "Yelle",
+      "loyalty_months": 112,
+      "total_scrobbles": 693
+    },
+    {
+      "artist_id": 20371,
+      "name": "Lorde",
+      "loyalty_months": 111,
+      "total_scrobbles": 769
+    },
+    {
+      "artist_id": 32398,
+      "name": "Sufjan Stevens",
+      "loyalty_months": 108,
+      "total_scrobbles": 1081
+    },
+    {
+      "artist_id": 24638,
+      "name": "Neutral Milk Hotel",
+      "loyalty_months": 107,
+      "total_scrobbles": 785
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 42276,
+      "name": "Each Time You Fall In Love",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42280,
+      "name": "DO YA THING (OFFICIAL VIDEO) GORILLAZ",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42274,
+      "name": "Equateur",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 9
+    },
+    {
+      "artist_id": 42282,
+      "name": "Fusa Nocta, DRED BEY",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 6711,
+      "name": "Ciel",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42286,
+      "name": "Hen Yanni",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42287,
+      "name": "yunè pinku",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42273,
+      "name": "Miki Berenyi Trio",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 6
+    },
+    {
+      "artist_id": 39963,
+      "name": "swim school",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42288,
+      "name": "Alice Costelloe",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 4012,
+      "name": "Bic Runga",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42289,
+      "name": "Ellur",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42290,
+      "name": "Swan Lingo",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42291,
+      "name": "Horsepower",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 34935,
+      "name": "The Reds, Pinks and Purples",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 15088,
+      "name": "Horse Vision",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 11250,
+      "name": "Eternal Dust",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42279,
+      "name": "Jana Horn",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 4
+    },
+    {
+      "artist_id": 40111,
+      "name": "yawning portal",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 10628,
+      "name": "Electrelane",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 12
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:16.562611Z"
+}

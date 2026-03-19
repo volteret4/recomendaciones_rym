@@ -1,0 +1,511 @@
+{
+  "username": "Nubis84",
+  "total_scrobbles": 70394,
+  "unique_artists": 6108,
+  "unique_albums": 9154,
+  "first_scrobble": "2009-06-24",
+  "diversity_index": 0.803,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "rock",
+      "weight": 0.0531,
+      "score": 28059
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0298,
+      "score": 15774
+    },
+    {
+      "genre": "progressive rock",
+      "weight": 0.0253,
+      "score": 13404
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0242,
+      "score": 12777
+    },
+    {
+      "genre": "ambient",
+      "weight": 0.023,
+      "score": 12151
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0201,
+      "score": 10640
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0197,
+      "score": 10422
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0193,
+      "score": 10194
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0189,
+      "score": 9971
+    },
+    {
+      "genre": "art rock",
+      "weight": 0.0188,
+      "score": 9949
+    },
+    {
+      "genre": "metal",
+      "weight": 0.0183,
+      "score": 9696
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0174,
+      "score": 9220
+    },
+    {
+      "genre": "pop rock",
+      "weight": 0.0167,
+      "score": 8847
+    },
+    {
+      "genre": "singer-songwriter",
+      "weight": 0.0157,
+      "score": 8322
+    },
+    {
+      "genre": "classic rock",
+      "weight": 0.0148,
+      "score": 7853
+    },
+    {
+      "genre": "folk",
+      "weight": 0.0133,
+      "score": 7041
+    },
+    {
+      "genre": "post-rock",
+      "weight": 0.0133,
+      "score": 7038
+    },
+    {
+      "genre": "progressive metal",
+      "weight": 0.013,
+      "score": 6887
+    },
+    {
+      "genre": "progressive",
+      "weight": 0.0121,
+      "score": 6414
+    },
+    {
+      "genre": "experimental rock",
+      "weight": 0.0116,
+      "score": 6140
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.6239
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1407
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.1266
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0531
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0251
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0189
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0104
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0014
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.4317
+    },
+    {
+      "country": "GB",
+      "weight": 0.3332
+    },
+    {
+      "country": "ES",
+      "weight": 0.0415
+    },
+    {
+      "country": "CA",
+      "weight": 0.0411
+    },
+    {
+      "country": "FR",
+      "weight": 0.0353
+    },
+    {
+      "country": "SE",
+      "weight": 0.0344
+    },
+    {
+      "country": "DE",
+      "weight": 0.0255
+    },
+    {
+      "country": "JP",
+      "weight": 0.0213
+    },
+    {
+      "country": "PL",
+      "weight": 0.0209
+    },
+    {
+      "country": "IT",
+      "weight": 0.0151
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 166,
+      "scrobbles": 1124
+    },
+    {
+      "label": "Columbia",
+      "artists": 102,
+      "scrobbles": 1041
+    },
+    {
+      "label": "Atlantic",
+      "artists": 71,
+      "scrobbles": 935
+    },
+    {
+      "label": "Virgin",
+      "artists": 59,
+      "scrobbles": 687
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 55,
+      "scrobbles": 1291
+    },
+    {
+      "label": "Epic",
+      "artists": 55,
+      "scrobbles": 569
+    },
+    {
+      "label": "RCA",
+      "artists": 48,
+      "scrobbles": 259
+    },
+    {
+      "label": "EMI",
+      "artists": 46,
+      "scrobbles": 505
+    },
+    {
+      "label": "Polydor",
+      "artists": 46,
+      "scrobbles": 402
+    },
+    {
+      "label": "Rhino",
+      "artists": 45,
+      "scrobbles": 437
+    },
+    {
+      "label": "Capitol Records",
+      "artists": 44,
+      "scrobbles": 454
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 40,
+      "scrobbles": 424
+    },
+    {
+      "label": "Island",
+      "artists": 39,
+      "scrobbles": 663
+    },
+    {
+      "label": "Nuclear Blast",
+      "artists": 35,
+      "scrobbles": 277
+    },
+    {
+      "label": "Domino",
+      "artists": 35,
+      "scrobbles": 269
+    }
+  ],
+  "musical_twin": "Frikomid",
+  "twin_similarity": 0.183,
+  "core_artists": [
+    {
+      "artist_id": 27334,
+      "name": "Porcupine Tree",
+      "loyalty_months": 134,
+      "total_scrobbles": 1259
+    },
+    {
+      "artist_id": 8479,
+      "name": "David Bowie",
+      "loyalty_months": 118,
+      "total_scrobbles": 504
+    },
+    {
+      "artist_id": 4626,
+      "name": "Bob Dylan",
+      "loyalty_months": 114,
+      "total_scrobbles": 528
+    },
+    {
+      "artist_id": 32162,
+      "name": "Steven Wilson",
+      "loyalty_months": 110,
+      "total_scrobbles": 924
+    },
+    {
+      "artist_id": 1317,
+      "name": "Alcest",
+      "loyalty_months": 109,
+      "total_scrobbles": 898
+    },
+    {
+      "artist_id": 28813,
+      "name": "Riverside",
+      "loyalty_months": 104,
+      "total_scrobbles": 916
+    },
+    {
+      "artist_id": 9885,
+      "name": "Dream Theater",
+      "loyalty_months": 102,
+      "total_scrobbles": 387
+    },
+    {
+      "artist_id": 7063,
+      "name": "Coldplay",
+      "loyalty_months": 101,
+      "total_scrobbles": 474
+    },
+    {
+      "artist_id": 25695,
+      "name": "Opeth",
+      "loyalty_months": 100,
+      "total_scrobbles": 582
+    },
+    {
+      "artist_id": 27040,
+      "name": "Pink Floyd",
+      "loyalty_months": 96,
+      "total_scrobbles": 734
+    },
+    {
+      "artist_id": 4341,
+      "name": "Black Sabbath",
+      "loyalty_months": 95,
+      "total_scrobbles": 399
+    },
+    {
+      "artist_id": 2460,
+      "name": "Arcade Fire",
+      "loyalty_months": 90,
+      "total_scrobbles": 345
+    },
+    {
+      "artist_id": 36085,
+      "name": "Tool",
+      "loyalty_months": 90,
+      "total_scrobbles": 575
+    },
+    {
+      "artist_id": 27356,
+      "name": "Portishead",
+      "loyalty_months": 88,
+      "total_scrobbles": 413
+    },
+    {
+      "artist_id": 26025,
+      "name": "PJ Harvey",
+      "loyalty_months": 84,
+      "total_scrobbles": 496
+    },
+    {
+      "artist_id": 18071,
+      "name": "Kate Bush",
+      "loyalty_months": 83,
+      "total_scrobbles": 318
+    },
+    {
+      "artist_id": 1944,
+      "name": "Anathema",
+      "loyalty_months": 81,
+      "total_scrobbles": 933
+    },
+    {
+      "artist_id": 23566,
+      "name": "Mono",
+      "loyalty_months": 81,
+      "total_scrobbles": 501
+    },
+    {
+      "artist_id": 4752,
+      "name": "Bon Iver",
+      "loyalty_months": 78,
+      "total_scrobbles": 497
+    },
+    {
+      "artist_id": 19621,
+      "name": "Led Zeppelin",
+      "loyalty_months": 78,
+      "total_scrobbles": 303
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 42763,
+      "name": "Koji Kondo",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42764,
+      "name": "Black Metal Promotion",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42765,
+      "name": "Rachel's",
+      "first_listen": "2026-03-05",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 42766,
+      "name": "MSDMNR",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42767,
+      "name": "Dexter Curtin & Timo Manson",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 13433,
+      "name": "Gitano",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42768,
+      "name": "Ludovico Einaudi & I Virtuosi Italiani",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42769,
+      "name": "Mtree the Great",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42770,
+      "name": "Horror Gorillas",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42772,
+      "name": "Slay",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42773,
+      "name": "LTN",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42774,
+      "name": "Two MoroN",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42775,
+      "name": "Instrumental",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 11521,
+      "name": "FOOG",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42776,
+      "name": "Dr. Hz",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42777,
+      "name": "warm universe",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42778,
+      "name": "Grungy MC",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 3672,
+      "name": "Bebe",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42779,
+      "name": "22 min. hilarantes con José María Bellido Morillas",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42781,
+      "name": "Kenny Wheeler, Lee Konitz, Dave Holland & Bill Frisell",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 2
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:19.074604Z"
+}

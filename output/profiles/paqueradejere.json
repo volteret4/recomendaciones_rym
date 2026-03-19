@@ -1,0 +1,511 @@
+{
+  "username": "paqueradejere",
+  "total_scrobbles": 31534,
+  "unique_artists": 2793,
+  "unique_albums": 3754,
+  "first_scrobble": "2007-08-08",
+  "diversity_index": 0.867,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "electronic",
+      "weight": 0.0492,
+      "score": 10590
+    },
+    {
+      "genre": "rock",
+      "weight": 0.0287,
+      "score": 6187
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0278,
+      "score": 5985
+    },
+    {
+      "genre": "ambient",
+      "weight": 0.0242,
+      "score": 5213
+    },
+    {
+      "genre": "indie",
+      "weight": 0.0207,
+      "score": 4448
+    },
+    {
+      "genre": "indie rock",
+      "weight": 0.0195,
+      "score": 4205
+    },
+    {
+      "genre": "jazz",
+      "weight": 0.0184,
+      "score": 3964
+    },
+    {
+      "genre": "pop",
+      "weight": 0.0178,
+      "score": 3821
+    },
+    {
+      "genre": "alternative rock",
+      "weight": 0.0162,
+      "score": 3488
+    },
+    {
+      "genre": "electronica",
+      "weight": 0.0147,
+      "score": 3155
+    },
+    {
+      "genre": "techno",
+      "weight": 0.0138,
+      "score": 2978
+    },
+    {
+      "genre": "alternative",
+      "weight": 0.0126,
+      "score": 2702
+    },
+    {
+      "genre": "soul",
+      "weight": 0.0124,
+      "score": 2675
+    },
+    {
+      "genre": "funk",
+      "weight": 0.0116,
+      "score": 2496
+    },
+    {
+      "genre": "post-rock",
+      "weight": 0.0112,
+      "score": 2414
+    },
+    {
+      "genre": "instrumental",
+      "weight": 0.011,
+      "score": 2372
+    },
+    {
+      "genre": "psychedelic",
+      "weight": 0.0107,
+      "score": 2305
+    },
+    {
+      "genre": "hip hop",
+      "weight": 0.0106,
+      "score": 2280
+    },
+    {
+      "genre": "post-punk",
+      "weight": 0.0106,
+      "score": 2280
+    },
+    {
+      "genre": "shoegaze",
+      "weight": 0.0103,
+      "score": 2224
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.6034
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1573
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.0916
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0777
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0442
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0143
+    },
+    {
+      "decade": "1970s",
+      "weight": 0.0107
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0008
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.4618
+    },
+    {
+      "country": "GB",
+      "weight": 0.2815
+    },
+    {
+      "country": "ES",
+      "weight": 0.0667
+    },
+    {
+      "country": "CA",
+      "weight": 0.0418
+    },
+    {
+      "country": "DE",
+      "weight": 0.0405
+    },
+    {
+      "country": "FR",
+      "weight": 0.039
+    },
+    {
+      "country": "SE",
+      "weight": 0.0244
+    },
+    {
+      "country": "NO",
+      "weight": 0.0163
+    },
+    {
+      "country": "IT",
+      "weight": 0.0141
+    },
+    {
+      "country": "IE",
+      "weight": 0.0138
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 57,
+      "scrobbles": 580
+    },
+    {
+      "label": "Columbia",
+      "artists": 44,
+      "scrobbles": 570
+    },
+    {
+      "label": "Warp",
+      "artists": 26,
+      "scrobbles": 671
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 26,
+      "scrobbles": 420
+    },
+    {
+      "label": "Atlantic",
+      "artists": 25,
+      "scrobbles": 190
+    },
+    {
+      "label": "Virgin",
+      "artists": 21,
+      "scrobbles": 227
+    },
+    {
+      "label": "Blue Note",
+      "artists": 21,
+      "scrobbles": 125
+    },
+    {
+      "label": "4AD",
+      "artists": 20,
+      "scrobbles": 415
+    },
+    {
+      "label": "Domino",
+      "artists": 20,
+      "scrobbles": 278
+    },
+    {
+      "label": "Island",
+      "artists": 18,
+      "scrobbles": 209
+    },
+    {
+      "label": "Music From Memory",
+      "artists": 17,
+      "scrobbles": 241
+    },
+    {
+      "label": "EMI",
+      "artists": 17,
+      "scrobbles": 207
+    },
+    {
+      "label": "Sacred Bones Records",
+      "artists": 16,
+      "scrobbles": 191
+    },
+    {
+      "label": "XL Recordings",
+      "artists": 16,
+      "scrobbles": 189
+    },
+    {
+      "label": "Epic",
+      "artists": 15,
+      "scrobbles": 109
+    }
+  ],
+  "musical_twin": "Nubis84",
+  "twin_similarity": 0.131,
+  "core_artists": [
+    {
+      "artist_id": 2393,
+      "name": "Aphex Twin",
+      "loyalty_months": 25,
+      "total_scrobbles": 151
+    },
+    {
+      "artist_id": 23154,
+      "name": "Miles Davis",
+      "loyalty_months": 24,
+      "total_scrobbles": 99
+    },
+    {
+      "artist_id": 8188,
+      "name": "Daniel Avery",
+      "loyalty_months": 23,
+      "total_scrobbles": 192
+    },
+    {
+      "artist_id": 33792,
+      "name": "The Chemical Brothers",
+      "loyalty_months": 22,
+      "total_scrobbles": 116
+    },
+    {
+      "artist_id": 8061,
+      "name": "Da",
+      "loyalty_months": 21,
+      "total_scrobbles": 90
+    },
+    {
+      "artist_id": 23465,
+      "name": "Mogwai",
+      "loyalty_months": 21,
+      "total_scrobbles": 241
+    },
+    {
+      "artist_id": 4013,
+      "name": "Bicep",
+      "loyalty_months": 20,
+      "total_scrobbles": 95
+    },
+    {
+      "artist_id": 24925,
+      "name": "Nine Inch Nails",
+      "loyalty_months": 20,
+      "total_scrobbles": 130
+    },
+    {
+      "artist_id": 28591,
+      "name": "Rhye",
+      "loyalty_months": 20,
+      "total_scrobbles": 78
+    },
+    {
+      "artist_id": 24897,
+      "name": "Nils Frahm",
+      "loyalty_months": 19,
+      "total_scrobbles": 111
+    },
+    {
+      "artist_id": 27114,
+      "name": "Placebo",
+      "loyalty_months": 19,
+      "total_scrobbles": 107
+    },
+    {
+      "artist_id": 31847,
+      "name": "Spiritualized",
+      "loyalty_months": 19,
+      "total_scrobbles": 98
+    },
+    {
+      "artist_id": 33050,
+      "name": "Tangerine Dream",
+      "loyalty_months": 19,
+      "total_scrobbles": 51
+    },
+    {
+      "artist_id": 21268,
+      "name": "MGMT",
+      "loyalty_months": 18,
+      "total_scrobbles": 60
+    },
+    {
+      "artist_id": 3682,
+      "name": "Beck",
+      "loyalty_months": 17,
+      "total_scrobbles": 42
+    },
+    {
+      "artist_id": 18501,
+      "name": "Kings of Convenience",
+      "loyalty_months": 17,
+      "total_scrobbles": 82
+    },
+    {
+      "artist_id": 23746,
+      "name": "Morphine",
+      "loyalty_months": 17,
+      "total_scrobbles": 174
+    },
+    {
+      "artist_id": 27505,
+      "name": "Prins Thomas",
+      "loyalty_months": 17,
+      "total_scrobbles": 105
+    },
+    {
+      "artist_id": 36792,
+      "name": "Underworld",
+      "loyalty_months": 17,
+      "total_scrobbles": 123
+    },
+    {
+      "artist_id": 23189,
+      "name": "Millie Jackson",
+      "loyalty_months": 16,
+      "total_scrobbles": 153
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 1716,
+      "name": "Altin Gün",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 10
+    },
+    {
+      "artist_id": 43919,
+      "name": "Love Unlimited",
+      "first_listen": "2026-03-03",
+      "scrobbles_since": 8
+    },
+    {
+      "artist_id": 43920,
+      "name": "Andrea Parker",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 11
+    },
+    {
+      "artist_id": 43918,
+      "name": "Love & Kisses",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 7
+    },
+    {
+      "artist_id": 43921,
+      "name": "Dele Sosimi",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 11
+    },
+    {
+      "artist_id": 34861,
+      "name": "The Pop Group",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 11
+    },
+    {
+      "artist_id": 36736,
+      "name": "Ultravox",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 7
+    },
+    {
+      "artist_id": 35238,
+      "name": "The Trammps",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 13
+    },
+    {
+      "artist_id": 4472,
+      "name": "Blind Mr. Jones",
+      "first_listen": "2026-03-02",
+      "scrobbles_since": 18
+    },
+    {
+      "artist_id": 43922,
+      "name": "Phreek",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 4713,
+      "name": "Bohannon",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 6
+    },
+    {
+      "artist_id": 34101,
+      "name": "The Feelies",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 9
+    },
+    {
+      "artist_id": 43924,
+      "name": "Beautiful Bend",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 43923,
+      "name": "Love And Kisses",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 3
+    },
+    {
+      "artist_id": 32949,
+      "name": "Taana Gardner",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 19
+    },
+    {
+      "artist_id": 43925,
+      "name": "The Jimmy Castor Bunch",
+      "first_listen": "2026-02-27",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 37528,
+      "name": "Voyage",
+      "first_listen": "2026-02-26",
+      "scrobbles_since": 9
+    },
+    {
+      "artist_id": 23975,
+      "name": "Mumford & Sons",
+      "first_listen": "2026-02-23",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 43928,
+      "name": "Apparat feat. Bi Disc",
+      "first_listen": "2026-02-23",
+      "scrobbles_since": 2
+    },
+    {
+      "artist_id": 43927,
+      "name": "apparat feat. káryyn",
+      "first_listen": "2026-02-23",
+      "scrobbles_since": 3
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:21.209241Z"
+}

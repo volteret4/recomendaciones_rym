@@ -1,0 +1,507 @@
+{
+  "username": "EliasJ72",
+  "total_scrobbles": 39237,
+  "unique_artists": 1264,
+  "unique_albums": 2036,
+  "first_scrobble": "2021-10-28",
+  "diversity_index": 0.72,
+  "adopter_type": "follower",
+  "genre_distribution": [
+    {
+      "genre": "hip hop",
+      "weight": 0.0593,
+      "score": 17911
+    },
+    {
+      "genre": "experimental",
+      "weight": 0.0471,
+      "score": 14217
+    },
+    {
+      "genre": "experimental hip hop",
+      "weight": 0.0456,
+      "score": 13773
+    },
+    {
+      "genre": "electronic",
+      "weight": 0.0373,
+      "score": 11262
+    },
+    {
+      "genre": "hip-hop",
+      "weight": 0.0312,
+      "score": 9436
+    },
+    {
+      "genre": "glitch hop",
+      "weight": 0.0263,
+      "score": 7948
+    },
+    {
+      "genre": "industrial hip hop",
+      "weight": 0.0239,
+      "score": 7229
+    },
+    {
+      "genre": "rap",
+      "weight": 0.0189,
+      "score": 5702
+    },
+    {
+      "genre": "industrial",
+      "weight": 0.0183,
+      "score": 5525
+    },
+    {
+      "genre": "hardcore hip hop",
+      "weight": 0.0177,
+      "score": 5338
+    },
+    {
+      "genre": "cloud rap",
+      "weight": 0.0168,
+      "score": 5085
+    },
+    {
+      "genre": "noise",
+      "weight": 0.0168,
+      "score": 5073
+    },
+    {
+      "genre": "punk",
+      "weight": 0.0164,
+      "score": 4962
+    },
+    {
+      "genre": "trap",
+      "weight": 0.0158,
+      "score": 4770
+    },
+    {
+      "genre": "rock",
+      "weight": 0.015,
+      "score": 4541
+    },
+    {
+      "genre": "west coast hip hop",
+      "weight": 0.0146,
+      "score": 4403
+    },
+    {
+      "genre": "digital hardcore",
+      "weight": 0.0142,
+      "score": 4275
+    },
+    {
+      "genre": "alternative r&b",
+      "weight": 0.0134,
+      "score": 4058
+    },
+    {
+      "genre": "glitch",
+      "weight": 0.0127,
+      "score": 3845
+    },
+    {
+      "genre": "punk rap",
+      "weight": 0.0113,
+      "score": 3404
+    }
+  ],
+  "decade_distribution": [
+    {
+      "decade": "Pre-60s",
+      "weight": 0.5745
+    },
+    {
+      "decade": "2010s",
+      "weight": 0.1816
+    },
+    {
+      "decade": "2020s",
+      "weight": 0.1571
+    },
+    {
+      "decade": "2000s",
+      "weight": 0.0441
+    },
+    {
+      "decade": "1990s",
+      "weight": 0.0393
+    },
+    {
+      "decade": "1980s",
+      "weight": 0.0028
+    },
+    {
+      "decade": "1960s",
+      "weight": 0.0006
+    }
+  ],
+  "country_distribution": [
+    {
+      "country": "US",
+      "weight": 0.7184
+    },
+    {
+      "country": "GB",
+      "weight": 0.0778
+    },
+    {
+      "country": "FR",
+      "weight": 0.0531
+    },
+    {
+      "country": "AR",
+      "weight": 0.0466
+    },
+    {
+      "country": "CA",
+      "weight": 0.0261
+    },
+    {
+      "country": "JP",
+      "weight": 0.0235
+    },
+    {
+      "country": "UY",
+      "weight": 0.019
+    },
+    {
+      "country": "BR",
+      "weight": 0.0134
+    },
+    {
+      "country": "ES",
+      "weight": 0.0116
+    },
+    {
+      "country": "AU",
+      "weight": 0.0104
+    }
+  ],
+  "top_labels": [
+    {
+      "label": "[no label]",
+      "artists": 142,
+      "scrobbles": 5226
+    },
+    {
+      "label": "Columbia",
+      "artists": 19,
+      "scrobbles": 452
+    },
+    {
+      "label": "Warp",
+      "artists": 12,
+      "scrobbles": 258
+    },
+    {
+      "label": "Atlantic",
+      "artists": 11,
+      "scrobbles": 384
+    },
+    {
+      "label": "Warner Bros. Records",
+      "artists": 9,
+      "scrobbles": 698
+    },
+    {
+      "label": "Interscope Records",
+      "artists": 9,
+      "scrobbles": 600
+    },
+    {
+      "label": "Warner Records",
+      "artists": 9,
+      "scrobbles": 127
+    },
+    {
+      "label": "Domino",
+      "artists": 9,
+      "scrobbles": 114
+    },
+    {
+      "label": "XL Recordings",
+      "artists": 8,
+      "scrobbles": 643
+    },
+    {
+      "label": "RCA",
+      "artists": 8,
+      "scrobbles": 381
+    },
+    {
+      "label": "Epic",
+      "artists": 8,
+      "scrobbles": 107
+    },
+    {
+      "label": "Geffen Records",
+      "artists": 8,
+      "scrobbles": 41
+    },
+    {
+      "label": "Parlophone",
+      "artists": 7,
+      "scrobbles": 238
+    },
+    {
+      "label": "Elektra",
+      "artists": 7,
+      "scrobbles": 47
+    },
+    {
+      "label": "Rough Trade",
+      "artists": 6,
+      "scrobbles": 300
+    }
+  ],
+  "musical_twin": "Rocky_stereo",
+  "twin_similarity": 0.086,
+  "core_artists": [
+    {
+      "artist_id": 8760,
+      "name": "Death Grips",
+      "loyalty_months": 54,
+      "total_scrobbles": 3338
+    },
+    {
+      "artist_id": 16107,
+      "name": "JPEGMAFIA",
+      "loyalty_months": 52,
+      "total_scrobbles": 2813
+    },
+    {
+      "artist_id": 8265,
+      "name": "Danny Brown",
+      "loyalty_months": 50,
+      "total_scrobbles": 1248
+    },
+    {
+      "artist_id": 15750,
+      "name": "Injury Reserve",
+      "loyalty_months": 50,
+      "total_scrobbles": 2143
+    },
+    {
+      "artist_id": 2459,
+      "name": "Arca",
+      "loyalty_months": 45,
+      "total_scrobbles": 826
+    },
+    {
+      "artist_id": 6455,
+      "name": "Childish Gambino",
+      "loyalty_months": 45,
+      "total_scrobbles": 758
+    },
+    {
+      "artist_id": 3201,
+      "name": "BROCKHAMPTON",
+      "loyalty_months": 42,
+      "total_scrobbles": 371
+    },
+    {
+      "artist_id": 2393,
+      "name": "Aphex Twin",
+      "loyalty_months": 41,
+      "total_scrobbles": 314
+    },
+    {
+      "artist_id": 21395,
+      "name": "Machine Girl",
+      "loyalty_months": 41,
+      "total_scrobbles": 561
+    },
+    {
+      "artist_id": 17941,
+      "name": "Kanye West",
+      "loyalty_months": 39,
+      "total_scrobbles": 869
+    },
+    {
+      "artist_id": 18217,
+      "name": "Kendrick Lamar",
+      "loyalty_months": 39,
+      "total_scrobbles": 421
+    },
+    {
+      "artist_id": 20003,
+      "name": "Lil Ugly Mane",
+      "loyalty_months": 39,
+      "total_scrobbles": 764
+    },
+    {
+      "artist_id": 10219,
+      "name": "Earl Sweatshirt",
+      "loyalty_months": 38,
+      "total_scrobbles": 214
+    },
+    {
+      "artist_id": 11151,
+      "name": "Ertie Ruffian",
+      "loyalty_months": 37,
+      "total_scrobbles": 624
+    },
+    {
+      "artist_id": 13719,
+      "name": "Gorillaz",
+      "loyalty_months": 37,
+      "total_scrobbles": 230
+    },
+    {
+      "artist_id": 23890,
+      "name": "Mr. Bungle",
+      "loyalty_months": 37,
+      "total_scrobbles": 565
+    },
+    {
+      "artist_id": 39081,
+      "name": "black midi",
+      "loyalty_months": 36,
+      "total_scrobbles": 168
+    },
+    {
+      "artist_id": 37350,
+      "name": "Vince Staples",
+      "loyalty_months": 35,
+      "total_scrobbles": 112
+    },
+    {
+      "artist_id": 31605,
+      "name": "Sophie",
+      "loyalty_months": 34,
+      "total_scrobbles": 426
+    },
+    {
+      "artist_id": 35888,
+      "name": "Todos Tus Muertos",
+      "loyalty_months": 34,
+      "total_scrobbles": 293
+    }
+  ],
+  "recent_discoveries": [
+    {
+      "artist_id": 42132,
+      "name": "july3p",
+      "first_listen": "2026-03-04",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42133,
+      "name": "Arca feat. Total Freedom",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42134,
+      "name": "Arca feat. Mica Levi & Massacooraman",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42135,
+      "name": "Arca feat. Mica Levi",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42136,
+      "name": "Talpah & Violent Magic Orchestra",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 11
+    },
+    {
+      "artist_id": 42137,
+      "name": "Batterring Ram of Assyria",
+      "first_listen": "2026-03-01",
+      "scrobbles_since": 6
+    },
+    {
+      "artist_id": 1859,
+      "name": "Amnesia Scanner",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 3
+    },
+    {
+      "artist_id": 42138,
+      "name": "Hoa Thiên Lý",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 12730,
+      "name": "Funeral",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42139,
+      "name": "gabby start",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42140,
+      "name": "Star Boy",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42141,
+      "name": "d0llywood1",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 40102,
+      "name": "xaev",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42142,
+      "name": "kittydog",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42143,
+      "name": "Gingus",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 39544,
+      "name": "kmoe",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 42144,
+      "name": "vai5000",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 566,
+      "name": "A. G. Cook",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 9705,
+      "name": "Doon Kanda",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    },
+    {
+      "artist_id": 15906,
+      "name": "Isabella Lovestory",
+      "first_listen": "2026-02-28",
+      "scrobbles_since": 1
+    }
+  ],
+  "generated_at": "2026-03-19T14:52:15.589981Z"
+}
