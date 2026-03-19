@@ -28,7 +28,7 @@ python scripts/enrichment/fetch_musicbrainz_relations.py
 
 # Frontend (no build step required — static HTML/JS/CSS)
 # Serve with any static HTTP server, e.g.:
-python -m http.server 8000 --directory web/
+python -m http.server 8000 --directory docs/
 ```
 
 ### Dependencies
@@ -67,14 +67,15 @@ consejero_rym/
 │   ├── profiles/{username}.json
 │   ├── precomputed/
 │   └── stats/
-└── web/                              # Vanilla JS SPA (no build step)
+└── docs/                             # Vanilla JS SPA (no build step) — también es la fuente de GitHub Pages
     ├── index.html
     ├── js/
     │   ├── app.js                    # Router, state management
     │   ├── views/                    # Page components
     │   └── components/               # Reusable UI components
     ├── css/styles.css                # Dark theme
-    └── data/ → ../output/            # Symlink to JSON outputs
+    ├── .nojekyll                     # Evita que GitHub Pages use Jekyll
+    └── data/ → ../output/            # Symlink local (gitignored); en GitHub Pages no hay datos
 ```
 
 ## Database
